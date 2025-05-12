@@ -1,0 +1,75 @@
+%   Filename    : chapter_2.tex 
+\chapter{Review of Related Literature}
+\label{sec:relatedlit}
+
+\section{Communication Gap between Generations}
+Language is dynamic in nature and thus, constantly evolving over time. One example of this behavior is the development of internet slang. Internet slang is a result of language variation and is often regarded as informal \cite{Liu_Gui_Zuo_Dai_2019}. In the study, \textit{The Use of Online Slang for Independent Learning in English Vocabulary} \cite{Ambarsari_Amrullah_Nawawi_2020}, students used internet slang to express their feelings and emotions, and to align their communication style with their peers. 
+
+However, this development has its challenges. It is suggested that younger generation should use slang to communicate with each other instead of older generations because it might cause confusion between them \cite{Jeresano_Carretero_2022}.
+
+This miscommunication is prominent between generations with differences in linguistic familiarity as Suslak \cite{SUSLAK2009199} argues that age influences language use, noting that language evolves across generations.
+Supporting this, a study by Teng and Joo \cite{Teng_Joo2023} found that the older a person is, the less likely they are to understand internet language.
+
+Studies have shown that using internet slang improves relationships between those who use it. However, using internet slang for inter-generational communication can be a hindrance to proper and effective communication \cite{gonzagaforda}.
+
+\section{Generative AI}
+Generative AI encompasses machine learning models that create new content, such as text, images, and audio, based on patterns learned from extensive data \cite{euchner2023generative}. These models, including LLMs like those used in ChatGPT and Bing AI, use neural networks to predict the next word or phrase in a sequence, enabling them to generate human-like text \cite{brynjolfsson2023generative}. The ability of generative AI to understand and produce diverse content, ranging from creative writing code, makes it potentially useful for various applications, such as language translation \cite{fui2023generative}. 
+
+\section{Existing Studies}
+Vergho et al. \cite{Vergho} used multiple open source LLMs and compared them with the latest ersion of GPT-3.5 and 4.0 models at that time.
+They determined zephyr-7b-beta is a viable open-source alternative to these models and is comparable with the latest GPT-4.0 model.
+
+Khazeni et al. \cite{Khazeni} used deep learning to create a model for translating Persian slang text into formal ones. The researchers explored the challenges of translating Persian slang into English within the context of film subtitling, specifically focusing on the performance of three neural machine translation (NMT) systems, namely Google Translate, Targoman, and Farazin. The primary interest of the paper lies in the understanding of how these NMT systems handle the complexities of slang translation. It was revealed that the NMT systems often struggle to capture the nuances of slang, leading to unnatural and inaccurate translations. Targoman performed best in naturalness, but it fell short of human translation quality. This implies the need for specialized algorithms or training data suitable for slang, and potentially human post-editing, to achieve accurate and culturally appropriate translations in this domain.
+
+The study by Nocon et al. \cite{Nocon_Kho_Arroyo_2018} explores translating Filipino colloquialisms, such as Conyo and Datkilab, into standardized Filipino, addressing comprehension barriers for non-familiar speakers. Two machine translation (MT) approaches were evaluated: Tensorflow's Sequence-to-Sequence model using Recurrent Neural Networks (RNNs) and Moses' Phrase-based Statistical MT. Moses outperformed Tensorflow on test data due to its handling of phrase combinations and unfamiliar words, while Tensorflow excelled on training data, indicating potential with refinement and more training data. The research underscores the need for robust datasets and highlights the strengths of phrase-based statistical MT in tackling slang translation challenges.
+
+Ibrahim and Mustafa \cite{Ibrahim_Sharief} developed a system to translate slang into formal language, addressing challenges posed by slang's informality and variability. Using updated datasets of slang words, formal equivalents, and contextual sentences, they fine-tuned pre-trained models from Hugging Face's Transformer library. While the T5-base model showed promise during training, it performed poorly in testing. In contrast, the “facebook/bart-base” model excelled, demonstrating high accuracy and low loss values. The study highlights the importance of fine-tuning and updating datasets for effective slang translation and emphasizes the potential of transformer models like “facebook/bart-base” in bridging informal and formal language gaps. 
+
+\begin{table}[ht]  
+	\centering
+	\caption{Summary of Existing Studies} \vspace{0.25em}
+	\begin{tabular}{|p{1in}|p{1in}|p{1in} | p{1in}|} \hline
+		\centering Author
+		& Focus 
+		& Gaps 
+		& Problem Solved  \\ \hline
+		
+		Nocon et al.    
+		& Developing machine translators for Filipino colloquialisms using sequence-to-sequence models and statistical machine translation (Moses). & Tensorflow models had issues with unknown tokens and repetitions, and limited ability to generalize to unseen data.
+		& Demonstrated the feasibility of machine translation for Filipino colloquialisms, with Moses as a viable solution.
+		\\ \hline
+		
+		Ibrahim et.al  
+		& Developing an intelligent system to transform English slang words into formal words.
+		& The study noted that more powerful processors could improve the training and testing, and that previous datasets were outdated and needed updating.
+		& Demonstrated an effective model for translating English slang to formal English and highlighted the importance of fine-tuning pre-trained models.
+		\\ \hline
+		
+		Khazeni et al.
+		& Persian slang text conversion to formal and deep learning of Persian short texts on social media
+		& The BERT models used did not align well with the informal data used in the sentiment analysis.
+		& Created a tool to convert Persian slang to formal text and improved sentiment analysis of short texts using deep learning.
+		\\ \hline
+		
+	\end{tabular}
+	\label{tab:timetableactivities}
+\end{table}
+
+\section{LoRA for Fine Tuning}
+Low Rank Adaptation, or LoRA, is an efficient Parameter Efficient Fine Tuning (PEFT) method proposed by Hu et al \cite{hu2021loralowrankadaptationlarge}.
+This can significantly decrease the required storage for training while producing comparable results and in some cases even outperforming other adaptation methods.
+In addition, it has minimal chance of catastrophic forgetting as the original weights are not being tampered with, unlike other fine-tuning methods.
+These factors make it a suitable option for slang translation as a quick yet accurate solution.
+In a study conducted by Zhao et al. \cite{zhao2024loraland310finetuned}, they determined that some LLMs using LoRA for fine tuning can outperform GPT-4, one of the most advanced LLM models currently.
+A study by Nguyen et al. \cite{nguyen2023finetuningllama2large} used LoRA in fine tuning a pre-trained Llama 2 7B model for text classification of a dataset that contains slang.
+They were able to create a more accurate model compared to models by existing studies at that time. 
+
+\section{Chapter Summary}
+This chapter shows how generational differences create communication gaps, especially due to internet slang.
+Younger people tend to use slang to express emotions and connect with friends, but this can confuse older generations who aren't as familiar with these terms.
+Research shows that as language changes over time, older people are generally less likely to understand the newest internet language.
+To bridge this gap, some recent studies have utilized machine learning to translate slang into more standard language.
+For instance, Khazeni et al. \cite{Khazeni} used deep learning to translate Persian slang, while Nocon et al. \cite{Nocon_Kho_Arroyo_2018} created a Filipino slang translator using statistical models.
+Moreover, Ibrahim and Mustafa \cite{Ibrahim_Sharief} fine-tuned pre-trained models to learn slang meanings.
+One promising technique for this is Low Rank Adaptation (LoRA), which is a fine-tuning method that keeps the original model stable while using less storage.
+Studies by Zhao et al. \cite{zhao2024loraland310finetuned} and Nguyen et al. \cite{nguyen2023finetuningllama2large} show that LoRA models are not only efficient but can even outperform advanced models like GPT-4 when it comes to slang translation and text classification. 
