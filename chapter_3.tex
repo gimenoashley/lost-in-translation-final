@@ -14,7 +14,7 @@ The data obtained from social media posts were from verified users of X whose ag
 The dataset used for the fine-tuning of the model was preprocessed to ensure optimal performance of the model.
 Unnecessary information such as email addresses and URLs was removed. The data was then manually cleaned up to remove unnecessary characters such as emojis and fixed issues such as typos. A similar approach was done with existing and machine generated datasets to ensure consistency within the training dataset.
 
-The dataset is then split into train and test datasets in a 90/10 ratio to maximize the data learned by the model without compromising on the model's ability to generalize to new data. The train dataset is then split again into a 90/10 ratio to ensure no overfitting while still allowing the model to adapt to the pattern of slang. The cleaned up dataset was then tokenized through the Transformers library provided by HuggingFace as the library already has tokenizers available for their pretrained models.
+The dataset is then split into train and test datasets in a 90/10 ratio to maximize the data learned by the model while having enough data to determine if the model is able to adapt to new data. The train dataset is then split again into train and eval dataset with a 90/10 ratio to prevent overfitting during the model training. The cleaned up dataset was then tokenized through the Transformers library provided by HuggingFace as the library already has tokenizers available for their pretrained models.
 This ensures that the data is formatted properly as required by the model to be used.
 
 \subsection{Model Fine-Tuning}
