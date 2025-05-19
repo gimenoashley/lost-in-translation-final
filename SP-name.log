@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  12 MAY 2025 23:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  19 MAY 2025 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -199,10 +199,18 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks26
+\float@box=\box56
+\@float@everytoks=\toks27
+\@floatcapt=\box57
+)
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks26
-\verbatim@line=\toks27
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read2
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
@@ -215,20 +223,20 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen160
-\ar@mcellbox=\box56
+\ar@mcellbox=\box58
 \extrarowheight=\dimen161
-\NC@list=\toks28
+\NC@list=\toks30
 \extratabsurround=\skip62
 \backup@length=\skip63
-\ar@cellbox=\box57
+\ar@cellbox=\box59
 )
 \TX@col@width=\dimen162
 \TX@old@table=\dimen163
 \TX@old@col=\dimen164
 \TX@target=\dimen165
 \TX@delta=\dimen166
-\TX@cols=\count288
-\TX@ftn=\toks29
+\TX@cols=\count289
+\TX@ftn=\toks31
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -238,7 +246,7 @@ Package: lineno 2023/05/20 line numbers on paragraphs v5.3
 
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count289
+\etb@tempcnta=\count290
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -249,28 +257,28 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-\linenopenalty=\count290
-\output=\toks30
-\linenoprevgraf=\count291
+\linenopenalty=\count291
+\output=\toks32
+\linenoprevgraf=\count292
 \linenumbersep=\dimen167
 \linenumberwidth=\dimen168
-\c@linenumber=\count292
-\c@pagewiselinenumber=\count293
-\c@LN@truepage=\count294
-\c@internallinenumber=\count295
-\c@internallinenumbers=\count296
+\c@linenumber=\count293
+\c@pagewiselinenumber=\count294
+\c@LN@truepage=\count295
+\c@internallinenumber=\count296
+\c@internallinenumbers=\count297
 \quotelinenumbersep=\dimen169
 \bframerule=\dimen170
 \bframesep=\dimen171
-\bframebox=\box58
-\linenoamsmath@ams@eqpen=\count297
+\bframebox=\box60
+\linenoamsmath@ams@eqpen=\count298
 LaTeX Info: Redefining \\ on input line 3180.
 ))
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-\l__pdf_internal_box=\box59
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box61
 )
 
 LaTeX Warning: Unused global option(s):
@@ -300,17 +308,17 @@ LaTeX Font Info:    ... okay on input line 7.
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
+\scratchcounter=\count300
 \scratchdimen=\dimen172
-\scratchbox=\box60
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count302
+\scratchbox=\box62
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count303
 \MPscratchDim=\dimen173
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks32
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks34
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -338,7 +346,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\c@maskedRefs=\count305
+\c@maskedRefs=\count306
 
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -475,9 +483,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [2]
 
 [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [4])
 
@@ -866,14 +871,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[15])
+[15]
 Underfull \vbox (badness 3884) has occurred while \output is active []
 
 
 
 [16]
+<figures/methodology.png, id=101, 925.4575pt x 322.20375pt>
+File: figures/methodology.png Graphic file (type png)
+<use figures/methodology.png>
+Package pdftex.def Info: figures/methodology.png  used on input line 38.
+(pdftex.def)             Requested size: 462.72762pt x 161.10147pt.
 
-[17]
+Overfull \hbox (47.17513pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
+
+)
+
+[17 <./figures/methodology.png>]
 \openout2 = `chapter_4.aux'.
 
  (chapter_4.tex
@@ -888,22 +904,22 @@ Chapter 4.
 
 
 [19]
-<figures/TrainLoss.png, id=112, 2055.68pt x 1080.035pt>
+<figures/TrainLoss.png, id=114, 2055.68pt x 1080.035pt>
 File: figures/TrainLoss.png Graphic file (type png)
 <use figures/TrainLoss.png>
 Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/EvaluationLoss.png, id=114, 2055.68pt x 1080.035pt>
+<figures/EvaluationLoss.png, id=115, 2055.68pt x 1080.035pt>
 File: figures/EvaluationLoss.png Graphic file (type png)
 <use figures/EvaluationLoss.png>
 Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 17.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/BLEUEvaluation.png, id=115, 2055.68pt x 1080.035pt>
+<figures/BLEUEvaluation.png, id=116, 2055.68pt x 1080.035pt>
 File: figures/BLEUEvaluation.png Graphic file (type png)
 <use figures/BLEUEvaluation.png>
 Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 25.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/ROUGELEvaluation.png, id=116, 2055.68pt x 1080.035pt>
+<figures/ROUGELEvaluation.png, id=117, 2055.68pt x 1080.035pt>
 File: figures/ROUGELEvaluation.png Graphic file (type png)
 <use figures/ROUGELEvaluation.png>
 Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
@@ -927,34 +943,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [22 <./figures/ROUGELEvaluation.png>]
-
-! LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
-
-<figures/Form1.png, id=130, 505.89pt x 362.35374pt>
+<figures/Form1.png, id=131, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
 Package pdftex.def Info: figures/Form1.png  used on input line 47.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-! LaTeX Error: Unknown float option `H'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
 
-<figures/Form2.png, id=131, 505.89pt x 362.35374pt>
+
+[23]
+<figures/Form2.png, id=135, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
 Package pdftex.def Info: figures/Form2.png  used on input line 56.
@@ -964,69 +964,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[23]
-
-[24 <./figures/Form1.png> <./figures/Form2.png>]
-
-! LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
-
+[24 <./figures/Form1.png>]
 <figures/Form3.png, id=141, 505.89pt x 362.35374pt>
 File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
 Package pdftex.def Info: figures/Form3.png  used on input line 64.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-! LaTeX Error: Unknown float option `H'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 \begin{figure} [H]
-                       
-Option `H' ignored and `p' used.
 
-<figures/Form4.png, id=142, 505.89pt x 362.35374pt>
+
+[25 <./figures/Form2.png>]
+<figures/Form4.png, id=146, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
 Package pdftex.def Info: figures/Form4.png  used on input line 72.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-! LaTeX Error: Unknown float option `H'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
 
-<figures/Form5.png, id=143, 505.89pt x 362.35374pt>
+
+[26 <./figures/Form3.png>]
+<figures/Form5.png, id=151, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
 Package pdftex.def Info: figures/Form5.png  used on input line 80.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-! LaTeX Error: Unknown float option `H'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
 
-<figures/Summary.png, id=144, 505.89pt x 362.35374pt>
+
+[27 <./figures/Form4.png>]
+<figures/Summary.png, id=156, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
 Package pdftex.def Info: figures/Summary.png  used on input line 88.
@@ -1036,35 +1008,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[25]
+[28 <./figures/Form5.png>]
 
-[26 <./figures/Form3.png> <./figures/Form4.png>]
+[29 <./figures/Summary.png>])
 
-[27 <./figures/Form5.png> <./figures/Summary.png>])
-Underfull \vbox (badness 4001) has occurred while \output is active []
-
-
-
-[28]
-
-[29]
+[30]
 \openout2 = `chapter_5.aux'.
 
  (chapter_5.tex
-
-[30
-
-
-
-
-]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[31])
+[31
+
+
+
+
+])
 
 [32]
 \openout2 = `chapter_6.aux'.
@@ -1225,13 +1188,13 @@ L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6268 strings out of 473899
- 104482 string characters out of 5726971
+ 6346 strings out of 473899
+ 105813 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28937 multiletter control sequences out of 15000+600000
+ 29011 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1103b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1103b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1242,9 +1205,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (54 pages, 747527 bytes).
+Output written on SP-name.pdf (54 pages, 760344 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
+ 244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
