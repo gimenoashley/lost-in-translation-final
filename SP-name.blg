@@ -32,10 +32,6 @@ Illegal, another \bibstyle command---line 2 of file chapter_6.aux
  :          {apacite}
 I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-Reallocating 'name_of_file' (item size: 1) to 15 items.
-A level-1 auxiliary file: appendix_A.aux
-Reallocating 'name_of_file' (item size: 1) to 15 items.
-A level-1 auxiliary file: appendix_B.aux
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -47,12 +43,12 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myreferences.bib
 Warning--entry type for "unsloth" isn't style-file defined
---line 46 of file myreferences.bib
+--line 91 of file myreferences.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No address in brynjolfsson2023generative
 You've used 30 entries,
             6951 wiz_defined-function locations,
-            1488 strings with 17996 characters,
+            1486 strings with 17968 characters,
 and the built_in function-call counts, 60070 in all, are:
 = -- 7294
 > -- 542

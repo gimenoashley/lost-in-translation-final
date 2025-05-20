@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  19 MAY 2025 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  20 MAY 2025 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,7 +378,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-Overfull \hbox (13.75838pt too wide) in paragraph at lines 15--12
+Overfull \hbox (7.22237pt too wide) in paragraph at lines 15--12
 [][] 
  []
 
@@ -482,27 +482,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [2]
 
 [3]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
 
 [4])
 
 [5]
+
+[6]
 \openout2 = `chapter_2.aux'.
 
  (chapter_2.tex
-
-[6
-
-
-
-
-]
 Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[7]
+[7
+
+
+
+
+]
 
 [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -850,8 +853,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  (chapter_3.tex
 Chapter 3.
+<figures/methodology.png, id=89, 925.4575pt x 322.20375pt>
+File: figures/methodology.png Graphic file (type png)
+<use figures/methodology.png>
+Package pdftex.def Info: figures/methodology.png  used on input line 9.
+(pdftex.def)             Requested size: 462.72762pt x 161.10147pt.
 
-Underfull \vbox (badness 4967) has occurred while \output is active []
+Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
 
 
 
@@ -860,35 +870,15 @@ Underfull \vbox (badness 4967) has occurred while \output is active []
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+ <./figures/methodology.png>]
 
 [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [15]
-Underfull \vbox (badness 3884) has occurred while \output is active []
 
+[16])
 
-
-[16]
-<figures/methodology.png, id=101, 925.4575pt x 322.20375pt>
-File: figures/methodology.png Graphic file (type png)
-<use figures/methodology.png>
-Package pdftex.def Info: figures/methodology.png  used on input line 38.
-(pdftex.def)             Requested size: 462.72762pt x 161.10147pt.
-
-Overfull \hbox (47.17513pt too wide) in paragraph at lines 38--39
- [][] 
- []
-
-)
-
-[17 <./figures/methodology.png>]
+[17]
 \openout2 = `chapter_4.aux'.
 
  (chapter_4.tex
@@ -900,14 +890,14 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 38--39
 
 ]
 Chapter 4.
-
-
-[19]
-<figures/TrainLoss.png, id=114, 2055.68pt x 1080.035pt>
+<figures/TrainLoss.png, id=111, 2055.68pt x 1080.035pt>
 File: figures/TrainLoss.png Graphic file (type png)
 <use figures/TrainLoss.png>
 Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+
+
+[19]
 <figures/EvaluationLoss.png, id=115, 2055.68pt x 1080.035pt>
 File: figures/EvaluationLoss.png Graphic file (type png)
 <use figures/EvaluationLoss.png>
@@ -916,28 +906,29 @@ Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 17.
 <figures/BLEUEvaluation.png, id=116, 2055.68pt x 1080.035pt>
 File: figures/BLEUEvaluation.png Graphic file (type png)
 <use figures/BLEUEvaluation.png>
-Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 25.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/ROUGELEvaluation.png, id=117, 2055.68pt x 1080.035pt>
-File: figures/ROUGELEvaluation.png Graphic file (type png)
-<use figures/ROUGELEvaluation.png>
-Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
+Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 22.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
-Underfull \vbox (badness 7047) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [20 <./figures/TrainLoss.png>]
+<figures/ROUGELEvaluation.png, id=121, 2055.68pt x 1080.035pt>
+File: figures/ROUGELEvaluation.png Graphic file (type png)
+<use figures/ROUGELEvaluation.png>
+Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 27.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [21 <./figures/EvaluationLoss.png> <./figures/BLEUEvaluation.png>]
-Overfull \hbox (0.7462pt too wide) in paragraph at lines 38--39
+Overfull \hbox (0.7462pt too wide) in paragraph at lines 35--36
 \OT1/cmr/m/n/12 The dataset was au-to-mat-i-cally eval-u-ated us-ing BLEU and R
 OUGE met-rics, specif-
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -945,7 +936,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form1.png, id=131, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
-Package pdftex.def Info: figures/Form1.png  used on input line 47.
+Package pdftex.def Info: figures/Form1.png  used on input line 44.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -956,7 +947,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form2.png, id=135, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
-Package pdftex.def Info: figures/Form2.png  used on input line 56.
+Package pdftex.def Info: figures/Form2.png  used on input line 53.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -967,7 +958,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form3.png, id=141, 505.89pt x 362.35374pt>
 File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
-Package pdftex.def Info: figures/Form3.png  used on input line 64.
+Package pdftex.def Info: figures/Form3.png  used on input line 61.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -978,7 +969,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form4.png, id=146, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
-Package pdftex.def Info: figures/Form4.png  used on input line 72.
+Package pdftex.def Info: figures/Form4.png  used on input line 69.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -989,7 +980,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form5.png, id=151, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
-Package pdftex.def Info: figures/Form5.png  used on input line 80.
+Package pdftex.def Info: figures/Form5.png  used on input line 77.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1000,7 +991,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Summary.png, id=156, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
-Package pdftex.def Info: figures/Summary.png  used on input line 88.
+Package pdftex.def Info: figures/Summary.png  used on input line 85.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1034,6 +1025,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (chapter_6.tex
 Chapter 6.
 (SP-name.bbl
+! Misplaced alignment tab character &.
+<argument> McKinsey &
+                      Company
+l.193 \APACaddressPublisher{}{McKinsey & Company}
+                                                 .
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1094,6 +1098,19 @@ Underfull \hbox (badness 4967) in paragraph at lines 322--336
 
 
 [34]
+! Misplaced alignment tab character &.
+<argument> ...International Journal for Research &
+                                                   Technology
+l.454   Technology}{3}{4}{11–25}
+                                  .
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 557--570
 []\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing lan-guage chan
 ge.
@@ -1102,6 +1119,19 @@ ge.
 
 
 [35]
+! Misplaced alignment tab character &.
+<argument> Language &
+                      Communication
+l.747 ...anguage & Communication}{29}{3}{199--209}
+                                                  .
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
 
 [36]))
 
@@ -1132,7 +1162,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (50 pages, 758919 bytes).
+Output written on SP-name.pdf (50 pages, 758868 bytes).
 PDF statistics:
  232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
