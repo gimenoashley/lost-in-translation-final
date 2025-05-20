@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  19 MAY 2025 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  19 MAY 2025 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,8 +286,7 @@ LaTeX Warning: Unused global option(s):
 
 (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux) (dedication.aux)
 (acknowledgment.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
-(chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux) (appendix_A.aux
-) (appendix_B.aux))
+(chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux))
 \openout1 = `SP-name.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1035,19 +1034,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (chapter_6.tex
 Chapter 6.
 (SP-name.bbl
-! Misplaced alignment tab character &.
-<argument> McKinsey &
-                      Company
-l.193 \APACaddressPublisher{}{McKinsey & Company}
-                                                 .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1108,19 +1094,6 @@ Underfull \hbox (badness 4967) in paragraph at lines 322--336
 
 
 [34]
-! Misplaced alignment tab character &.
-<argument> ...International Journal for Research &
-                                                   Technology
-l.454   Technology}{3}{4}{11–25}
-                                  .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 557--570
 []\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing lan-guage chan
 ge.
@@ -1129,69 +1102,23 @@ ge.
 
 
 [35]
-! Misplaced alignment tab character &.
-<argument> Language &
-                      Communication
-l.747 ...anguage & Communication}{29}{3}{199--209}
-                                                  .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 
 [36]))
 
-[37]
-\openout2 = `appendix_A.aux'.
-
- (appendix_A.tex
-
-[38
-
-
-
-
-]
-Appendix A.
-)
-
-[39]
-\openout2 = `appendix_B.aux'.
-
- (appendix_B.tex
-
-[40
-
-
-
-
-]
-Appendix B.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
-
- []
-
-
-
-[41] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
+[37] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
 (dedication.aux) (acknowledgment.aux) (abstract.aux) (chapter_1.aux)
 (chapter_2.aux) (chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux)
-(appendix_A.aux) (appendix_B.aux))
+)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6346 strings out of 473899
- 105813 string characters out of 5726971
+ 6293 strings out of 473899
+ 101954 string characters out of 5726971
  1939960 words of memory out of 5000000
- 29011 multiletter control sequences out of 15000+600000
+ 28972 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  79i,10n,84p,1103b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1205,9 +1132,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (54 pages, 760344 bytes).
+Output written on SP-name.pdf (50 pages, 758919 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

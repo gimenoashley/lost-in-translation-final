@@ -30,5 +30,3 @@
 \contentsline {section}{\numberline {5.1}Limitations}{32}{}%
 \contentsline {section}{\numberline {5.2}Recommendations}{32}{}%
 \contentsline {chapter}{\numberline {6}References}{33}{}%
-\contentsline {chapter}{\numberline {A}Code Snippets}{39}{}%
-\contentsline {chapter}{\numberline {B}Resource Persons}{41}{}%
