@@ -3,8 +3,8 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Summarized Methodology}}{13}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Training Loss}}{20}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Validation Loss}}{21}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Training loss curve of the fine-tuned model across training steps}}{20}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Evaluation loss curve of the fine-tuned model across training steps}}{21}{}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Evaluated using BLEU metric}}{21}{}%
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Evaluated using ROUGE-L metric}}{22}{}%
 \contentsline {figure}{\numberline {4.5}{\ignorespaces Form 1 Evaluation}}{24}{}%

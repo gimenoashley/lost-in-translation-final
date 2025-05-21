@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  20 MAY 2025 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  21 MAY 2025 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -890,23 +890,26 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 ]
 Chapter 4.
-<figures/TrainLoss.png, id=111, 2055.68pt x 1080.035pt>
-File: figures/TrainLoss.png Graphic file (type png)
-<use figures/TrainLoss.png>
-Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 
 [19]
+
+LaTeX Warning: Reference `train_loss' on page 20 undefined on input line 10.
+
+<figures/TrainLoss.png, id=114, 2055.68pt x 1080.035pt>
+File: figures/TrainLoss.png Graphic file (type png)
+<use figures/TrainLoss.png>
+Package pdftex.def Info: figures/TrainLoss.png  used on input line 13.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 <figures/EvaluationLoss.png, id=115, 2055.68pt x 1080.035pt>
 File: figures/EvaluationLoss.png Graphic file (type png)
 <use figures/EvaluationLoss.png>
-Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 17.
+Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 18.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 <figures/BLEUEvaluation.png, id=116, 2055.68pt x 1080.035pt>
 File: figures/BLEUEvaluation.png Graphic file (type png)
 <use figures/BLEUEvaluation.png>
-Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 22.
+Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 23.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -917,7 +920,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/ROUGELEvaluation.png, id=121, 2055.68pt x 1080.035pt>
 File: figures/ROUGELEvaluation.png Graphic file (type png)
 <use figures/ROUGELEvaluation.png>
-Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 27.
+Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 28.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -925,7 +928,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [21 <./figures/EvaluationLoss.png> <./figures/BLEUEvaluation.png>]
-Overfull \hbox (0.7462pt too wide) in paragraph at lines 35--36
+Overfull \hbox (0.7462pt too wide) in paragraph at lines 36--37
 \OT1/cmr/m/n/12 The dataset was au-to-mat-i-cally eval-u-ated us-ing BLEU and R
 OUGE met-rics, specif-
  []
@@ -936,7 +939,7 @@ OUGE met-rics, specif-
 <figures/Form1.png, id=131, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
-Package pdftex.def Info: figures/Form1.png  used on input line 44.
+Package pdftex.def Info: figures/Form1.png  used on input line 45.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -947,7 +950,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form2.png, id=135, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
-Package pdftex.def Info: figures/Form2.png  used on input line 53.
+Package pdftex.def Info: figures/Form2.png  used on input line 54.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -958,7 +961,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form3.png, id=141, 505.89pt x 362.35374pt>
 File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
-Package pdftex.def Info: figures/Form3.png  used on input line 61.
+Package pdftex.def Info: figures/Form3.png  used on input line 62.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -969,7 +972,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form4.png, id=146, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
-Package pdftex.def Info: figures/Form4.png  used on input line 69.
+Package pdftex.def Info: figures/Form4.png  used on input line 70.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -980,7 +983,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form5.png, id=151, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
-Package pdftex.def Info: figures/Form5.png  used on input line 77.
+Package pdftex.def Info: figures/Form5.png  used on input line 78.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -991,7 +994,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Summary.png, id=156, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
-Package pdftex.def Info: figures/Summary.png  used on input line 85.
+Package pdftex.def Info: figures/Summary.png  used on input line 86.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1143,12 +1146,16 @@ might try typing `S' now just to see what is salvageable.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 6293 strings out of 473899
- 101954 string characters out of 5726971
+ 6294 strings out of 473899
+ 101966 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28972 multiletter control sequences out of 15000+600000
+ 28973 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  79i,10n,84p,1103b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1162,7 +1169,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (50 pages, 758868 bytes).
+Output written on SP-name.pdf (50 pages, 759183 bytes).
 PDF statistics:
  232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

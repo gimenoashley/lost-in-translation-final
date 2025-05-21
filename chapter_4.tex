@@ -6,7 +6,8 @@ We built a dataset containing a total of 1155 Gen Z internet slang sentences and
 \section{Model Evaluation}
 \subsection{Model Training}
 The model was trained for 7 epochs before the early stopping callback was triggered because the evaluation metrics has not improved by at least 0.01 for 3 consecutive epochs. This prevented the overfitting seen in the following figure. 
-Here, we can see that the while the training loss is decreasing, the validation loss is increasing and other metrics are not improving. This indicates that the model is overfitting to the training data and may not generalize well to new data. The model training was stopped in just 7 epochs and the best model amongst the epochs, the one with the lowest validation loss and highest metrics, was chosen as the final model.
+
+\ref{train_loss} the training loss is decreasing, the validation loss is increasing and other metrics are not improving. This indicates that the model is overfitting to the training data and may not generalize well to new data. The model training was stopped in just 7 epochs and the best model amongst the epochs, the one with the lowest validation loss and highest metrics, was chosen as the final model.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{figures/TrainLoss.png}
