@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  21 MAY 2025 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  21 MAY 2025 20:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,6 +467,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (chapter_1.tex
 Chapter 1.
 
+LaTeX Warning: Citation `Crystal_Robins_2024' undefined on input line 8.
+
+
+LaTeX Warning: Citation `Jeresano_Carretero_2022' undefined on input line 8.
+
+
+LaTeX Warning: Citation `article' undefined on input line 8.
+
+
+LaTeX Warning: Citation `Fernández-Toro_2016' undefined on input line 10.
+
+
+LaTeX Warning: Citation `McArthur_1998' undefined on input line 10.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -475,11 +490,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+
+LaTeX Warning: Citation `Liu_Zhang_Li_2023' undefined on input line 12.
+
+
+LaTeX Warning: Citation `Barseghyan2014ONSA' undefined on input line 12.
+
+
+LaTeX Warning: Citation `Sabri2020' undefined on input line 12.
+
+
+LaTeX Warning: Citation `Maulidiya_Wijaya_Mauren_Adha_Pandin_2021' undefined on
+ input line 12.
+
+
+LaTeX Warning: Citation `Dua_Jacobson_Ellingrud_Enomoto_Cordina_Coe_Finneman_20
+24' undefined on input line 14.
+
+
+LaTeX Warning: Citation `Ghazali_Abdullah_2021' undefined on input line 14.
+
+
+LaTeX Warning: Citation `Vacalares_Salas_Babac_Cagalawan_Calimpong_2023' undefi
+ned on input line 14.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [3]
 Underfull \vbox (badness 1365) has occurred while \output is active []
@@ -496,6 +539,19 @@ Underfull \vbox (badness 1365) has occurred while \output is active []
  (chapter_2.tex
 Chapter 2.
 
+LaTeX Warning: Citation `Liu_Gui_Zuo_Dai_2019' undefined on input line 6.
+
+
+LaTeX Warning: Citation `Ambarsari_Amrullah_Nawawi_2020' undefined on input lin
+e 6.
+
+
+LaTeX Warning: Citation `SUSLAK2009199' undefined on input line 10.
+
+
+LaTeX Warning: Citation `Teng_Joo2023' undefined on input line 11.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -507,7 +563,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 
+LaTeX Warning: Citation `gonzagaforda' undefined on input line 13.
+
+
+LaTeX Warning: Citation `euchner2023generative' undefined on input line 16.
+
+
+LaTeX Warning: Citation `brynjolfsson2023generative' undefined on input line 16
+.
+
+
+LaTeX Warning: Citation `fui2023generative' undefined on input line 16.
+
+
+LaTeX Warning: Citation `Vergho' undefined on input line 19.
+
+
+LaTeX Warning: Citation `Khazeni' undefined on input line 22.
+
+
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+
+
 [8]
+
+LaTeX Warning: Citation `Nocon_Kho_Arroyo_2018' undefined on input line 24.
+
+
+LaTeX Warning: Citation `Ibrahim_Sharief' undefined on input line 26.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -843,8 +929,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
  []
 
 
+LaTeX Warning: Citation `hu2021loralowrankadaptationlarge' undefined on input l
+ine 59.
 
-[10])
+
+LaTeX Warning: Citation `zhao2024loraland310finetuned' undefined on input line 
+63.
+
+
+LaTeX Warning: Citation `nguyen2023finetuningllama2large' undefined on input li
+ne 64.
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[10]
 
 [11]
 
@@ -874,6 +975,17 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 [14]
 
+LaTeX Warning: Citation `unsloth' undefined on input line 30.
+
+
+LaTeX Warning: Citation `papineni_roukos_ward_zhu_2001' undefined on input line
+ 32.
+
+
+LaTeX Warning: Citation `lin_2004' undefined on input line 32.
+
+
+
 [15]
 
 [16])
@@ -890,17 +1002,14 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 ]
 Chapter 4.
+<figures/TrainLoss.png, id=111, 2055.68pt x 1080.035pt>
+File: figures/TrainLoss.png Graphic file (type png)
+<use figures/TrainLoss.png>
+Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 
 [19]
-
-LaTeX Warning: Reference `train_loss' on page 20 undefined on input line 10.
-
-<figures/TrainLoss.png, id=114, 2055.68pt x 1080.035pt>
-File: figures/TrainLoss.png Graphic file (type png)
-<use figures/TrainLoss.png>
-Package pdftex.def Info: figures/TrainLoss.png  used on input line 13.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 <figures/EvaluationLoss.png, id=115, 2055.68pt x 1080.035pt>
 File: figures/EvaluationLoss.png Graphic file (type png)
 <use figures/EvaluationLoss.png>
@@ -909,7 +1018,7 @@ Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 18.
 <figures/BLEUEvaluation.png, id=116, 2055.68pt x 1080.035pt>
 File: figures/BLEUEvaluation.png Graphic file (type png)
 <use figures/BLEUEvaluation.png>
-Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 23.
+Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 24.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -920,7 +1029,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/ROUGELEvaluation.png, id=121, 2055.68pt x 1080.035pt>
 File: figures/ROUGELEvaluation.png Graphic file (type png)
 <use figures/ROUGELEvaluation.png>
-Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 28.
+Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -928,7 +1037,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [21 <./figures/EvaluationLoss.png> <./figures/BLEUEvaluation.png>]
-Overfull \hbox (0.7462pt too wide) in paragraph at lines 36--37
+Overfull \hbox (0.7462pt too wide) in paragraph at lines 39--40
 \OT1/cmr/m/n/12 The dataset was au-to-mat-i-cally eval-u-ated us-ing BLEU and R
 OUGE met-rics, specif-
  []
@@ -939,10 +1048,10 @@ OUGE met-rics, specif-
 <figures/Form1.png, id=131, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
-Package pdftex.def Info: figures/Form1.png  used on input line 45.
+Package pdftex.def Info: figures/Form1.png  used on input line 48.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3884) has occurred while \output is active []
 
 
 
@@ -950,7 +1059,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Form2.png, id=135, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
-Package pdftex.def Info: figures/Form2.png  used on input line 54.
+Package pdftex.def Info: figures/Form2.png  used on input line 58.
+(pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
+<figures/Form3.png, id=136, 505.89pt x 362.35374pt>
+File: figures/Form3.png Graphic file (type png)
+<use figures/Form3.png>
+Package pdftex.def Info: figures/Form3.png  used on input line 67.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -958,69 +1072,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [24 <./figures/Form1.png>]
-<figures/Form3.png, id=141, 505.89pt x 362.35374pt>
-File: figures/Form3.png Graphic file (type png)
-<use figures/Form3.png>
-Package pdftex.def Info: figures/Form3.png  used on input line 62.
-(pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[25 <./figures/Form2.png>]
-<figures/Form4.png, id=146, 505.89pt x 362.35374pt>
+[25 <./figures/Form2.png> <./figures/Form3.png>]
+<figures/Form4.png, id=147, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
-Package pdftex.def Info: figures/Form4.png  used on input line 70.
+Package pdftex.def Info: figures/Form4.png  used on input line 76.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[26 <./figures/Form3.png>]
-<figures/Form5.png, id=151, 505.89pt x 362.35374pt>
+<figures/Form5.png, id=148, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
-Package pdftex.def Info: figures/Form5.png  used on input line 78.
+Package pdftex.def Info: figures/Form5.png  used on input line 85.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[27 <./figures/Form4.png>]
-<figures/Summary.png, id=156, 505.89pt x 362.35374pt>
+<figures/Summary.png, id=149, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
-Package pdftex.def Info: figures/Summary.png  used on input line 86.
+Package pdftex.def Info: figures/Summary.png  used on input line 94.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[26 <./figures/Form4.png>]
 
+[27 <./figures/Form5.png> <./figures/Summary.png>]
 
-[28 <./figures/Form5.png>]
+[28])
 
-[29 <./figures/Summary.png>])
-
-[30]
+[29]
 \openout2 = `chapter_5.aux'.
 
  (chapter_5.tex
+
+[30
+
+
+
+
+]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[31
-
-
-
-
-])
+[31])
 
 [32]
 \openout2 = `chapter_6.aux'.
@@ -1152,13 +1246,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6294 strings out of 473899
- 101966 string characters out of 5726971
+ 6281 strings out of 473899
+ 101542 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28973 multiletter control sequences out of 15000+600000
+ 28960 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1103b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1100b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1169,7 +1263,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (50 pages, 759183 bytes).
+Output written on SP-name.pdf (50 pages, 757759 bytes).
 PDF statistics:
  232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

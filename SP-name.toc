@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {4.2.2}Text Generation}{22}{}%
 \contentsline {subsection}{\numberline {4.2.3}Automatic Evaluation Metrics}{22}{}%
 \contentsline {subsection}{\numberline {4.2.4}Manual Evaluation Metrics}{23}{}%
-\contentsline {section}{\numberline {4.3}Summary}{29}{}%
+\contentsline {section}{\numberline {4.3}Summary}{28}{}%
 \contentsline {chapter}{\numberline {5}Conclusion}{31}{}%
 \contentsline {section}{\numberline {5.1}Limitations}{32}{}%
 \contentsline {section}{\numberline {5.2}Recommendations}{32}{}%

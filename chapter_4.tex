@@ -6,27 +6,30 @@ We built a dataset containing a total of 1155 Gen Z internet slang sentences and
 \section{Model Evaluation}
 \subsection{Model Training}
 The model was trained for 7 epochs before the early stopping callback was triggered because the evaluation metrics has not improved by at least 0.01 for 3 consecutive epochs. This prevented the overfitting seen in the following figure. 
-
-\ref{train_loss} the training loss is decreasing, the validation loss is increasing and other metrics are not improving. This indicates that the model is overfitting to the training data and may not generalize well to new data. The model training was stopped in just 7 epochs and the best model amongst the epochs, the one with the lowest validation loss and highest metrics, was chosen as the final model.
+Figure \ref{fig:train_loss} shows that the training loss is decreasing and in Figure \ref{fig:eval_loss} the validation loss is increasing and other metrics are not improving. These indicate that the model is overfitting to the training data and may not generalize well to new data. The model training was stopped in just 7 epochs and the best model amongst the epochs, the one with the lowest validation loss and highest metrics, was chosen as the final model.
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{figures/TrainLoss.png}
 	\caption{Training loss curve of the fine-tuned model across training steps}
+	\label{fig:train_loss}
 \end{figure}
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{figures/EvaluationLoss.png}
 	\caption{Evaluation loss curve of the fine-tuned model across training steps}
+	\label{fig:eval_loss}
 \end{figure}
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{figures/BLEUEvaluation.png}
 	\caption{Evaluated using BLEU metric}
+	\label{fig:bleu_eval}
 \end{figure}
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.2]{figures/ROUGELEvaluation.png}
 	\caption{Evaluated using ROUGE-L metric}
+	\label{fig:rouge_eval}
 \end{figure}
 
 \subsection{Text Generation}
@@ -40,54 +43,60 @@ A manual evaluation was conducted by the researchers through a survey administer
 
 The data presented below illustrate respondent preferences between the base and fine-tuned models across the five survey forms, as well as the overall summary of the results. Each graph visualizes the outcomes for an individual form, specifically indicating both the raw number of responses and the corresponding percentages favoring each model. A systematic evaluation for each graph is provided as follows:
 
-\begin{figure}[H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Form1.png}
 	\caption{Form 1 Evaluation}
+	\label{fig:form1}
 \end{figure}
 
-Figure 4.5 shows that among the 29 respondents, 306 responses or 52.8 percent preferred the base model, while 274 responses or 47.2 percent favored the fine-tuned model. This indicates a slight preference for the base model in this particular form. Notably, this result deviates from the overall trend observed in the other four forms, where the fine-tuned model tends to be favored. Form 1 is the only instance in which the base model outperformed the fine-tuned model, suggesting that specific characteristics of this form may have influenced the preferences of the respondents. 
+Figure \ref{fig:form1} shows that among the 29 respondents, 306 responses or 52.8 percent preferred the base model, while 274 responses or 47.2 percent favored the fine-tuned model. This indicates a slight preference for the base model in this particular form. Notably, this result deviates from the overall trend observed in the other four forms, where the fine-tuned model tends to be favored. Form 1 is the only instance in which the base model outperformed the fine-tuned model, suggesting that specific characteristics of this form may have influenced the preferences of the respondents. 
 
 
-\begin{figure}[H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Form2.png}
 	\caption{Form 2 Evaluation}
+	\label{fig:form2}
 \end{figure}
 
-Figure 4.6 implies that among 22 respondents, 236 responses, or 56.5 percent, favored the fine-tuned model, while 182 responses, or 43.5 percent, preferred the base model. This 13 percent margin reflects the clear preference for the fine-tuned model, which is consistent with the overall trend observed across the other forms. 
+Figure \ref{fig:form2} implies that among 22 respondents, 236 responses, or 56.5 percent, favored the fine-tuned model, while 182 responses, or 43.5 percent, preferred the base model. This 13 percent margin reflects the clear preference for the fine-tuned model, which is consistent with the overall trend observed across the other forms. 
 
-\begin{figure}[H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Form3.png}
 	\caption{Form 3 Evaluation}
+	\label{fig:form3}
 \end{figure}
 
-Figure 4.7 illustrates that among the 22 respondents, the fine-tuned model received a significantly higher preference, with 259 responses or 60.2 percent, compared to the base model with 171 responses or 29.8 percent. This 20.4 percent margin represents the widest gap among all forms. This strongly indicates the superior performance of the fine-tuned model on translating, presented in Form 3. 
+Figure \ref{fig:form3} illustrates that among the 22 respondents, the fine-tuned model received a significantly higher preference, with 259 responses or 60.2 percent, compared to the base model with 171 responses or 29.8 percent. This 20.4 percent margin represents the widest gap among all forms. This strongly indicates the superior performance of the fine-tuned model on translating, presented in Form 3. 
 
-\begin{figure} [H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Form4.png}
 	\caption{Form 4 Evaluation}
+	\label{fig:form4}
 \end{figure}
 
-Figure 4.8 highlights that the 21 respondents in Form 4 yielded a nearly even distribution of preferences, with 218 responses or 51.9 percent favoring the fined-tuned model and 202 responses or 48.1 percent preferring the base model. This narrow 3.8 percent difference suggests a comparable level of performance between the two models in this particular form. 
+Figure \ref{fig:form4} highlights that the 21 respondents in Form 4 yielded a nearly even distribution of preferences, with 218 responses or 51.9 percent favoring the fined-tuned model and 202 responses or 48.1 percent preferring the base model. This narrow 3.8 percent difference suggests a comparable level of performance between the two models in this particular form. 
 
-\begin{figure}[H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Form5.png}
 	\caption{Form 5 Evaluation}
+	\label{fig:form5}	
 \end{figure}
 
-Figure 4.9 conveys that among the 20 respondents in Form 5, 152 responses or 54.3 percent selected the fine-tuned model, while 128 responses or 45.7 percent chose the base model. This 8.6 percent margin reinforces the general trend toward the fine-tuned model across all forms. 
+Figure \ref{fig:form5} conveys that among the 20 respondents in Form 5, 152 responses or 54.3 percent selected the fine-tuned model, while 128 responses or 45.7 percent chose the base model. This 8.6 percent margin reinforces the general trend toward the fine-tuned model across all forms. 
 
-\begin{figure}[H]
+\begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.7]{figures/Summary.png}
 	\caption{Summary Evaluation}
+	\label{fig:summary}	
 \end{figure}
 
-Figure 4.10 presents the overall summary across all five forms, with a total of 114 respondents participating in the survey. In total, the fine-tuned model received 1,139 preferences or 53.5 percent, while the base model garnered 989 preferences or 46.5 percent. The resulting 7 percent margin between the two model indicates a moderate overall preference among Gen Z students at UPV for the fine-tuned model, suggesting its relatively better performance in meeting the participants' expectations for translation quality. 
+Figure \ref{fig:summary} presents the overall summary across all five forms, with a total of 114 respondents participating in the survey. In total, the fine-tuned model received 1,139 preferences or 53.5 percent, while the base model garnered 989 preferences or 46.5 percent. The resulting 7 percent margin between the two model indicates a moderate overall preference among Gen Z students at UPV for the fine-tuned model, suggesting its relatively better performance in meeting the participants' expectations for translation quality. 
 
 \section{Summary}
 The chapter presented the evaluation results and discussions on the performance of the fine-tuned language model for translating Gen Z internet slang into their formal translations. The dataset used for training consisted of 1,703 sentence pairs, combining original and publicly available data. The model was trained for seven epochs, with early stopping employed to prevent overfitting, which was evident from the divergence between training and validation losses.
