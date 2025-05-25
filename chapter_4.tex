@@ -1,45 +1,45 @@
 %   Filename    : chapter_4.tex 
 \chapter{Results and Discussions}
 \section{Dataset}
-We built a dataset containing a total of 1155 Gen Z internet slang sentences and their corresponding formal translations. The created dataset was then combined with another dataset from Hugging Face that contains 548 Gen Z internet slang and their corresponding formal translation.
+The researchers built a dataset containing a total of 1155 Gen Z internet slang sentences and their corresponding formal translations. The created dataset was then combined with another dataset from Hugging Face that contains 548 Gen Z internet slang and their corresponding formal translation.
 
 \section{Model Evaluation}
 \subsection{Model Training}
 The model was trained for 7 epochs before the early stopping callback was triggered because the evaluation metrics has not improved by at least 0.01 for 3 consecutive epochs. This prevented the overfitting seen in the following figure. 
 Figure \ref{fig:train_loss} shows that the training loss is decreasing and in Figure \ref{fig:eval_loss} the validation loss is increasing and other metrics are not improving. These indicate that the model is overfitting to the training data and may not generalize well to new data. The model training was stopped in just 7 epochs and the best model amongst the epochs, the one with the lowest validation loss and highest metrics, was chosen as the final model.
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering
 	\includegraphics[scale=0.2]{figures/TrainLoss.png}
 	\caption{Training loss curve of the fine-tuned model across training steps}
 	\label{fig:train_loss}
 \end{figure}
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering
 	\includegraphics[scale=0.2]{figures/EvaluationLoss.png}
 	\caption{Evaluation loss curve of the fine-tuned model across training steps}
 	\label{fig:eval_loss}
 \end{figure}
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering
 	\includegraphics[scale=0.2]{figures/BLEUEvaluation.png}
 	\caption{Evaluated using BLEU metric}
 	\label{fig:bleu_eval}
 \end{figure}
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering
 	\includegraphics[scale=0.2]{figures/ROUGELEvaluation.png}
 	\caption{Evaluated using ROUGE-L metric}
 	\label{fig:rouge_eval}
 \end{figure}
-
+\FloatBarrier
 \subsection{Text Generation}
-A total of 197 sentences were translated using both the base zephyr-7b-beta model and the finetuned model. These served as the dataset used to evaluate the performance of the model and comparing it with the other base model.
+A total of 197 sentences were translated using both the base zephyr-7b-beta model and the fine-tuned model. These served as the dataset used to evaluate the performance of the model and comparing it with the other base model.
 
 \subsection{Automatic Evaluation Metrics}
-The dataset was automatically evaluated using BLEU and ROUGE metrics, specifically the ROUGE-L metric as the dataset do not contain newlines that ROUGE-Lsum uses to separate the input with. These scores were then averaged to determine the score of the models. The base model obtained a BLEU score of 0.8099 and ROUGE-L Score of 0.8336 and the finetuned model obtained a BLEU score of 0.8151 and ROUGE-L Score of 0.8396. While the difference between the models is minimal, this does not completely represent the performance of the models as these metrics are only used to determine if the generated text is close to the reference text, regardless of the context and the overall quality of the generated text. However, it does show that the finetuned model, while not significantly better than the base model, is close to the reference model.
+The dataset was automatically evaluated using BLEU and ROUGE metrics, specifically the ROUGE-L metric as the dataset do not contain newlines that ROUGE-Lsum uses to separate the input with. These scores were then averaged to determine the score of the models. The base model obtained a BLEU score of 0.8099 and ROUGE-L Score of 0.8336 and the fine-tuned model obtained a BLEU score of 0.8151 and ROUGE-L Score of 0.8396. While the difference between the models is minimal, this does not completely represent the performance of the models as these metrics are only used to determine if the generated text is close to the reference text, regardless of the context and the overall quality of the generated text. However, it does show that the fine-tuned model, while not significantly better than the base model, is close to the reference model.
 
 \subsection{Manual Evaluation Metrics}
-A manual evaluation was conducted by the researchers through a survey administered via Google Forms to determine which of the two models is preferred by Generation Z students at UPV. The survey comprised a total of 93 questions, which were distributed across five separate forms. The first form contained 20 questions, the second 19, the third 20, the fourth 20, and the fifth 14, amounting to 93 questions in total. Each question presented two translation options: one generated by the fine-tuned model and the other by the base model. Respondents were asked to select the translation they preferred in each case. A total of 114 individuals participated in the survey, with 29, 22, 22, 21, and 20 respondents completing Forms 1 through 5, respectively. 
+A manual evaluation was conducted by the researchers through a survey administered via Google Forms to determine which of the two models is preferred by Generation Z students at University of the Philippines Visayas (UPV). The survey comprised a total of 144 questions, which were distributed across five separate forms. The first form contained 20 questions, the second 19, the third 20, the fourth 20, the fifth 14, \textbf{and the sixth 51 amounting to 144 questions} in total. Each question presented two translation options: one generated by the fine-tuned model and the other by the base model. Respondents were asked to select the translation they preferred in each case.\textbf{ A total of 114 individuals participated in the survey, with 29, 22, 22, 21, and 20 respondents completing Forms 1 through 5, respectively. }
 
 The data presented below illustrate respondent preferences between the base and fine-tuned models across the five survey forms, as well as the overall summary of the results. Each graph visualizes the outcomes for an individual form, specifically indicating both the raw number of responses and the corresponding percentages favoring each model. A systematic evaluation for each graph is provided as follows:
 
@@ -103,6 +103,6 @@ The chapter presented the evaluation results and discussions on the performance 
 
 Evaluation was conducted using both automatic and manual methods. The automatic evaluation, using BLEU and ROUGE-L metrics, showed marginal improvements in the fine-tuned model compared to the base model, suggesting slightly better alignment with reference translations. 
 
-To complement the results of automatic evaluation metrics, a manual evaluation was carried out through online surveys among Generation Z students at UPV. Participants compared translations from both models across five forms. Results showed a moderate overall preference for the fine-tuned model, with 53.5\% of responses in its favor. While one form showed a slight preference for the base model, the fine-tuned model was generally preferred in the remaining forms, especially in Form 3 where it showed the largest margin.
+To support the results of automatic evaluation metrics, a manual evaluation was carried out through online surveys among Generation Z students at UPV. Participants compared translations from both models across \textbf{five forms}. Results showed a moderate overall preference for the fine-tuned model, with 53.5\% of responses in its favor. While one form showed a slight preference for the base model, the fine-tuned model was generally preferred, especially in Form 3 where it showed the largest margin.
 
 In summary, the findings indicate that the fine-tuned model slightly outperformed the base model in terms of automatic metrics and showed a modest but consistent preference among target users, supporting its effectiveness in translating Gen Z slang into more formal language.

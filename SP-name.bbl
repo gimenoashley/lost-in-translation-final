@@ -198,6 +198,32 @@ Dua, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Esquivel%
+}{%
+Esquivel%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Esquivel_2019}
+\APACinsertmetastar {%
+Esquivel_2019}%
+\begin{APACrefauthors}%
+Esquivel, O\BPBI J\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {58 Exploring the Filipinization of the English Language in a
+  Digital Age: An Identity Apart from Other World Englishes.} {58 exploring the
+  filipinization of the english language in a digital age: An identity apart
+  from other world englishes.}
+\newblock
+\begin{APACrefURL} \url{https://files.eric.ed.gov/fulltext/EJ1244667.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Euchner%
 }{%
 Euchner%
@@ -685,6 +711,32 @@ Nocon, N.%
   Conference}{}{}{2199–2204}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/tencon.2018.8650118} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Olobia%
+}{%
+Olobia%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+Olobia_2024}
+\APACinsertmetastar {%
+Olobia_2024}%
+\begin{APACrefauthors}%
+Olobia, L\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{Mar}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Utilizing Social Media in Communicating in English as a
+  Second Language} {Utilizing social media in communicating in english as a
+  second language}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Studies in Self-Access Learning Journal}{15}{1}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.37237/150103} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

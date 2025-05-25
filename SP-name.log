@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  21 MAY 2025 20:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 00:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -199,18 +199,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count288
-\float@exts=\toks26
-\float@box=\box56
-\@float@everytoks=\toks27
-\@floatcapt=\box57
+(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks28
-\verbatim@line=\toks29
+\every@verbatim=\toks26
+\verbatim@line=\toks27
 \verbatim@in@stream=\read2
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
@@ -223,20 +218,20 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen160
-\ar@mcellbox=\box58
+\ar@mcellbox=\box56
 \extrarowheight=\dimen161
-\NC@list=\toks30
+\NC@list=\toks28
 \extratabsurround=\skip62
 \backup@length=\skip63
-\ar@cellbox=\box59
+\ar@cellbox=\box57
 )
 \TX@col@width=\dimen162
 \TX@old@table=\dimen163
 \TX@old@col=\dimen164
 \TX@target=\dimen165
 \TX@delta=\dimen166
-\TX@cols=\count289
-\TX@ftn=\toks31
+\TX@cols=\count288
+\TX@ftn=\toks29
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -246,7 +241,7 @@ Package: lineno 2023/05/20 line numbers on paragraphs v5.3
 
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count290
+\etb@tempcnta=\count289
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -257,28 +252,28 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-\linenopenalty=\count291
-\output=\toks32
-\linenoprevgraf=\count292
+\linenopenalty=\count290
+\output=\toks30
+\linenoprevgraf=\count291
 \linenumbersep=\dimen167
 \linenumberwidth=\dimen168
-\c@linenumber=\count293
-\c@pagewiselinenumber=\count294
-\c@LN@truepage=\count295
-\c@internallinenumber=\count296
-\c@internallinenumbers=\count297
+\c@linenumber=\count292
+\c@pagewiselinenumber=\count293
+\c@LN@truepage=\count294
+\c@internallinenumber=\count295
+\c@internallinenumbers=\count296
 \quotelinenumbersep=\dimen169
 \bframerule=\dimen170
 \bframesep=\dimen171
-\bframebox=\box60
-\linenoamsmath@ams@eqpen=\count298
+\bframebox=\box58
+\linenoamsmath@ams@eqpen=\count297
 LaTeX Info: Redefining \\ on input line 3180.
 ))
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count299
-\l__pdf_internal_box=\box61
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box59
 )
 
 LaTeX Warning: Unused global option(s):
@@ -307,17 +302,17 @@ LaTeX Font Info:    ... okay on input line 7.
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count300
+\scratchcounter=\count299
 \scratchdimen=\dimen172
-\scratchbox=\box62
-\nofMPsegments=\count301
-\nofMParguments=\count302
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count303
+\scratchbox=\box60
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count302
 \MPscratchDim=\dimen173
-\MPnumerator=\count304
-\makeMPintoPDFobject=\count305
-\everyMPtoPDFconversion=\toks34
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks32
 )
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -345,7 +340,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\c@maskedRefs=\count306
+\c@maskedRefs=\count305
 
 (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -467,21 +462,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (chapter_1.tex
 Chapter 1.
 
-LaTeX Warning: Citation `Crystal_Robins_2024' undefined on input line 8.
-
-
-LaTeX Warning: Citation `Jeresano_Carretero_2022' undefined on input line 8.
-
-
-LaTeX Warning: Citation `article' undefined on input line 8.
-
-
-LaTeX Warning: Citation `Fernández-Toro_2016' undefined on input line 10.
-
-
-LaTeX Warning: Citation `McArthur_1998' undefined on input line 10.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -490,115 +470,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-
-LaTeX Warning: Citation `Liu_Zhang_Li_2023' undefined on input line 12.
-
-
-LaTeX Warning: Citation `Barseghyan2014ONSA' undefined on input line 12.
-
-
-LaTeX Warning: Citation `Sabri2020' undefined on input line 12.
-
-
-LaTeX Warning: Citation `Maulidiya_Wijaya_Mauren_Adha_Pandin_2021' undefined on
- input line 12.
-
-
-LaTeX Warning: Citation `Dua_Jacobson_Ellingrud_Enomoto_Cordina_Coe_Finneman_20
-24' undefined on input line 14.
-
-
-LaTeX Warning: Citation `Ghazali_Abdullah_2021' undefined on input line 14.
-
-
-LaTeX Warning: Citation `Vacalares_Salas_Babac_Cagalawan_Calimpong_2023' undefi
-ned on input line 14.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [3]
 Underfull \vbox (badness 1365) has occurred while \output is active []
 
 
 
-[4])
+[4]
 
 [5]
 
-[6]
+[6])
+
+[7]
 \openout2 = `chapter_2.aux'.
 
  (chapter_2.tex
-Chapter 2.
 
-LaTeX Warning: Citation `Liu_Gui_Zuo_Dai_2019' undefined on input line 6.
-
-
-LaTeX Warning: Citation `Ambarsari_Amrullah_Nawawi_2020' undefined on input lin
-e 6.
-
-
-LaTeX Warning: Citation `SUSLAK2009199' undefined on input line 10.
-
-
-LaTeX Warning: Citation `Teng_Joo2023' undefined on input line 11.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[7
+[8
 
 
 
 
 ]
-
-LaTeX Warning: Citation `gonzagaforda' undefined on input line 13.
-
-
-LaTeX Warning: Citation `euchner2023generative' undefined on input line 16.
-
-
-LaTeX Warning: Citation `brynjolfsson2023generative' undefined on input line 16
-.
-
-
-LaTeX Warning: Citation `fui2023generative' undefined on input line 16.
-
-
-LaTeX Warning: Citation `Vergho' undefined on input line 19.
-
-
-LaTeX Warning: Citation `Khazeni' undefined on input line 22.
-
-
-Underfull \vbox (badness 1009) has occurred while \output is active []
-
-
-
-[8]
-
-LaTeX Warning: Citation `Nocon_Kho_Arroyo_2018' undefined on input line 24.
-
-
-LaTeX Warning: Citation `Ibrahim_Sharief' undefined on input line 26.
-
+Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [9]
+
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\OT1/cmr/m/n/12 Problem
  []
@@ -929,32 +842,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
  []
 
 
-LaTeX Warning: Citation `hu2021loralowrankadaptationlarge' undefined on input l
-ine 59.
 
+[12])
 
-LaTeX Warning: Citation `zhao2024loraland310finetuned' undefined on input line 
-63.
+[13]
 
-
-LaTeX Warning: Citation `nguyen2023finetuningllama2large' undefined on input li
-ne 64.
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[10]
-
-[11]
-
-[12]
+[14]
 \openout2 = `chapter_3.aux'.
 
  (chapter_3.tex
 Chapter 3.
-<figures/methodology.png, id=89, 925.4575pt x 322.20375pt>
+<figures/methodology.png, id=95, 925.4575pt x 322.20375pt>
 File: figures/methodology.png Graphic file (type png)
 <use figures/methodology.png>
 Package pdftex.def Info: figures/methodology.png  used on input line 9.
@@ -966,77 +864,58 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 
 
-[13
+[15
 
 
 
 
  <./figures/methodology.png>]
 
-[14]
-
-LaTeX Warning: Citation `unsloth' undefined on input line 30.
-
-
-LaTeX Warning: Citation `papineni_roukos_ward_zhu_2001' undefined on input line
- 32.
-
-
-LaTeX Warning: Citation `lin_2004' undefined on input line 32.
-
-
-
-[15]
-
-[16])
+[16]
 
 [17]
+
+[18])
+
+[19]
 \openout2 = `chapter_4.aux'.
 
  (chapter_4.tex
 
-[18
+[20
 
 
 
 
 ]
 Chapter 4.
-<figures/TrainLoss.png, id=111, 2055.68pt x 1080.035pt>
+<figures/TrainLoss.png, id=117, 2055.68pt x 1080.035pt>
 File: figures/TrainLoss.png Graphic file (type png)
 <use figures/TrainLoss.png>
 Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-
-
-[19]
-<figures/EvaluationLoss.png, id=115, 2055.68pt x 1080.035pt>
+<figures/EvaluationLoss.png, id=118, 2055.68pt x 1080.035pt>
 File: figures/EvaluationLoss.png Graphic file (type png)
 <use figures/EvaluationLoss.png>
 Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 18.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/BLEUEvaluation.png, id=116, 2055.68pt x 1080.035pt>
+<figures/BLEUEvaluation.png, id=119, 2055.68pt x 1080.035pt>
 File: figures/BLEUEvaluation.png Graphic file (type png)
 <use figures/BLEUEvaluation.png>
 Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 24.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[20 <./figures/TrainLoss.png>]
-<figures/ROUGELEvaluation.png, id=121, 2055.68pt x 1080.035pt>
+<figures/ROUGELEvaluation.png, id=120, 2055.68pt x 1080.035pt>
 File: figures/ROUGELEvaluation.png Graphic file (type png)
 <use figures/ROUGELEvaluation.png>
 Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
 (pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[21]
 
+[22 <./figures/TrainLoss.png>]
 
-[21 <./figures/EvaluationLoss.png> <./figures/BLEUEvaluation.png>]
+[23 <./figures/EvaluationLoss.png> <./figures/BLEUEvaluation.png>]
 Overfull \hbox (0.7462pt too wide) in paragraph at lines 39--40
 \OT1/cmr/m/n/12 The dataset was au-to-mat-i-cally eval-u-ated us-ing BLEU and R
 OUGE met-rics, specif-
@@ -1044,8 +923,8 @@ OUGE met-rics, specif-
 
 
 
-[22 <./figures/ROUGELEvaluation.png>]
-<figures/Form1.png, id=131, 505.89pt x 362.35374pt>
+[24 <./figures/ROUGELEvaluation.png>]
+<figures/Form1.png, id=138, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
 Package pdftex.def Info: figures/Form1.png  used on input line 48.
@@ -1055,13 +934,13 @@ Underfull \vbox (badness 3884) has occurred while \output is active []
 
 
 
-[23]
-<figures/Form2.png, id=135, 505.89pt x 362.35374pt>
+[25]
+<figures/Form2.png, id=142, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
 Package pdftex.def Info: figures/Form2.png  used on input line 58.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Form3.png, id=136, 505.89pt x 362.35374pt>
+<figures/Form3.png, id=143, 505.89pt x 362.35374pt>
 File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
 Package pdftex.def Info: figures/Form3.png  used on input line 67.
@@ -1071,38 +950,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[24 <./figures/Form1.png>]
+[26 <./figures/Form1.png>]
 
-[25 <./figures/Form2.png> <./figures/Form3.png>]
-<figures/Form4.png, id=147, 505.89pt x 362.35374pt>
+[27 <./figures/Form2.png> <./figures/Form3.png>]
+<figures/Form4.png, id=153, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
 Package pdftex.def Info: figures/Form4.png  used on input line 76.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Form5.png, id=148, 505.89pt x 362.35374pt>
+<figures/Form5.png, id=154, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
 Package pdftex.def Info: figures/Form5.png  used on input line 85.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Summary.png, id=149, 505.89pt x 362.35374pt>
+<figures/Summary.png, id=155, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
 Package pdftex.def Info: figures/Summary.png  used on input line 94.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 
-[26 <./figures/Form4.png>]
+[28 <./figures/Form4.png>]
 
-[27 <./figures/Form5.png> <./figures/Summary.png>]
+[29 <./figures/Form5.png> <./figures/Summary.png>]
 
-[28])
+[30])
 
-[29]
+[31]
 \openout2 = `chapter_5.aux'.
 
  (chapter_5.tex
 
-[30
+[32
 
 
 
@@ -1114,9 +993,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[31])
+[33])
 
-[32]
+[34]
 \openout2 = `chapter_6.aux'.
 
  (chapter_6.tex
@@ -1139,66 +1018,66 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[33
+[35
 
 
 
 
 ]
-Underfull \hbox (badness 1931) in paragraph at lines 233--246
+Underfull \hbox (badness 1931) in paragraph at lines 259--272
 \OT1/cmr/m/n/12 trieved from $\OT1/cmtt/m/n/12 https :// www [] .open [] .edu /
  openlearn / languages / exploring []
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 292--310
+Underfull \hbox (badness 4229) in paragraph at lines 318--336
 \OT1/cmr/m/n/12 in so-cial me-dia among malaysian youths: A so-ci-olin-guis-tic
  per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--310
+Underfull \hbox (badness 10000) in paragraph at lines 318--336
 \OT1/cmr/m/n/12 spec-tive.  \OT1/cmr/m/it/12 In-ter-na-tional Young Schol-ars J
 our-nal of Lan-guages\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--310
+Underfull \hbox (badness 10000) in paragraph at lines 318--336
 \OT1/cmr/m/it/12 4\OT1/cmr/m/n/12 (2), 69.  Re-trieved from $\OT1/cmtt/m/n/12 h
 ttps :// www [] .iium [] .edu [] .my / media /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--310
+Underfull \hbox (badness 10000) in paragraph at lines 318--336
 \OT1/cmtt/m/n/12 77652 / Slang % 20Language % 20Use % 20in % 20Social % 20Media
  % 20Among %
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 322--336
+Underfull \hbox (badness 2837) in paragraph at lines 348--362
 []\OT1/cmr/m/n/12 Gonzaga, M.  (2025, Feb).  \OT1/cmr/m/it/12 \forda convo ang 
 fer-son": Ana-lysis of
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 322--336
+Underfull \hbox (badness 2452) in paragraph at lines 348--362
 \OT1/cmr/m/it/12 gen z slang in the lens of bat-sta-teu fac-ulty mem-bers.  \OT
 1/cmr/m/n/12 Re-trieved
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 322--336
+Underfull \hbox (badness 4967) in paragraph at lines 348--362
 \OT1/cmr/m/n/12 from $\OT1/cmtt/m/n/12 https :// www [] .academia [] .edu / 102
 575643 / [][]FORDA [] []CONVO [] []ANG [] []FERSON []
  []
 
 
 
-[34]
+[36]
 ! Misplaced alignment tab character &.
 <argument> ...International Journal for Research &
                                                    Technology
-l.454   Technology}{3}{4}{11–25}
+l.480   Technology}{3}{4}{11–25}
                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1208,18 +1087,18 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--570
+Underfull \hbox (badness 10000) in paragraph at lines 583--596
 []\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing lan-guage chan
 ge.
  []
 
 
 
-[35]
+[37]
 ! Misplaced alignment tab character &.
 <argument> Language &
                       Communication
-l.747 ...anguage & Communication}{29}{3}{199--209}
+l.799 ...anguage & Communication}{29}{3}{199--209}
                                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1230,9 +1109,9 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[36]))
+[38]))
 
-[37] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
+[39] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
 (dedication.aux) (acknowledgment.aux) (abstract.aux) (chapter_1.aux)
 (chapter_2.aux) (chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux)
 )
@@ -1240,19 +1119,15 @@ might try typing `S' now just to see what is salvageable.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 6281 strings out of 473899
- 101542 string characters out of 5726971
+ 6268 strings out of 473899
+ 101821 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28960 multiletter control sequences out of 15000+600000
+ 28947 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1100b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1292b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1263,9 +1138,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (50 pages, 757759 bytes).
+Output written on SP-name.pdf (52 pages, 764201 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
+ 238 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

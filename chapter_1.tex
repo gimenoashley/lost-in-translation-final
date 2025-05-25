@@ -15,7 +15,7 @@ Generation Z, individuals born between 1996 and 2009, are regarded as ``digital 
 
 These gaps highlight the need for a tool that can bridge the generational divide, making it easier for individuals to understand the language of Generation Z. Multiple studies have tried translating slang into a formal language using machine learning. Khazeni et al. achieved a 81.91\% accuracy in translating Persian slang to formal Persian language using deep learning. Another study by Nocon et al. created a translator to translate Filipino colloquialisms into the Filipino language using Tensorflow’s sequence-to-sequence model and Moses’ phrase-based statistical machine translation. Furthermore, Ibrahim and Sharief developed a slang translator using models from Hugging Face. 
 
-Building on these studies, this study proposes to create a translation tool specifically to translate Gen Z slang. The tool will utilize Low Rank Adaptation (LoRA) to a selected Large Language Model (LLM). The results will be evaluated using the Recall-Oriented Understudy for Gisting Evaluation (ROUGE). 
+Building on these studies, this study created a translation tool specifically to translate Gen Z slang. The tool will utilize Low Rank Adaptation (LoRA) to a selected Large Language Model (LLM). The results will be evaluated using the Recall-Oriented Understudy for Gisting Evaluation (ROUGE). 
 
 By fostering mutual understanding, this tool aims to promote more effective and harmonious interactions across age groups, ultimately enhancing relationships and reducing miscommunication.
 
@@ -50,20 +50,27 @@ This study aims to fine-tune the zephyr-7b LLM for use in the translation of Gen
 \subsection{Specific Objectives}
 \label{sec:specific_objectives}
 Specifically, the study aims to:
-\begin{itemize}
-	\item create a dataset of sentences containing Generation Z slang used in differing contexts and its formal translation
-	\item create a LoRA implementation for fine-tuning an existing model
-	\item fine-tune an existing LLM to translate sentences containing Generation Z slang into formal sentences
-	\item evaluate the performance of the trained model and compare it to the baseline model using several performance metrics
-\end{itemize}
+\begin{enumerate}
+	\item create a dataset of sentences containing Generation Z slang used in differing contexts and its formal translation,
+	\item create a LoRA implementation for fine-tuning an existing model,
+	\item fine-tune an existing LLM to translate sentences containing Generation Z slang into formal sentences, and
+	\item evaluate the performance of the trained model and compare it to the baseline model using several performance metrics.
+\end{enumerate}
 
 %\subsection{Scope and Limitations of the Research} 
 \section{Scope and Limitations of the Research}
 \label{sec:scope}
-This study focused on the use of internet slang by Filipino Generation Z, with an emphasis on the English language, as it is widely used on different digital platforms, such as social networks.
+This study focused on the use of internet slang by Filipino Generation Z, with an emphasis on the English language, as it is widely used across various digital platforms, including social media. English has become a dominant medium of communication in the Philippines' digital landscape, particularly among younger demographics. According to a study by \cite{Olobia_2024}, social media platforms serve as powerful tools for communicating in English as a second language, significantly influencing students' language use. The prevalence of English in social media facilitates learning opportunities and cross-cultural communication, highlighting its integral role in the digital communication practices of Filipino youth.
+
+Furthermore, the extensive use of English on social media platforms reflects its status as a marker of education and social standing in the Philippines. As noted by Mateo (2018) cited by \cite{Esquivel_2019}, the widespread use of English in social media underscores its significance in Filipino society, where proficiency in English is often associated with educational attainment and social mobility.
+
+These findings underscore the importance of focusing on English in studies of internet slang among Filipino Generation Z, as it remains a prevalent and influential language in their digital interactions.
 
 %\subsection{Significance of the Research}
 \section{Significance of the Research}
 \label{sec:significance}
-The study contributed to understanding the evolving linguistic landscape shaped by Internet slang, especially as used by Generation Z.
-The insights gained from this study aid educators, parents, and communication professionals in bridging inter-generational communication gaps and fostering better understanding across age groups.
+This study contributes to the growing body of research on the evolving linguistic landscape shaped by the use of Internet slang, highlighting the communication practices of Generation Z. As digital platforms become increasingly central to daily interactions, Generation Z continues to develop and adopt informal linguistic expressions that reflect their identity, creativity, and cultural environment. While this form of communication enhances peer connectivity, it can also create barriers for individuals outside this demographic, particularly older generations.
+
+The findings of this study offer practical benefits for various stakeholders. For educators, the insights can support the development of more inclusive and responsive classroom communication strategies, enabling them to better understand and engage with their students' language use and cultural context. For parents, the study provides a framework for interpreting the language their children use online and in casual conversations, helping in bridging communication gaps and improving parent-child relationships. For media practitioners and digital marketers, understanding the patterns and meanings behind Gen Z slang can inform the creation of more relatable and culturally relevant content, enhancing audience engagement.
+
+By addressing the communicative divide brought about by generational language differences, this research encourages a more informed approach to language variation in contemporary digital spaces. Ultimately, the study underscores the importance of adapting to linguistic change in order to foster clearer, more effective intergenerational communication.
