@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Summarized Methodology}}{19}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Training loss curve of the fine-tuned model across training steps}}{26}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Evaluation loss curve of the fine-tuned model across training steps}}{27}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Evaluated using BLEU metric}}{27}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Evaluated using ROUGE-L metric}}{28}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Form 1 Evaluation}}{30}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Form 2 Evaluation}}{31}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Form 3 Evaluation}}{31}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Form 4 Evaluation}}{32}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Form 5 Evaluation}}{33}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Form 6 Evaluation}}{34}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Summary Evaluation}}{34}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

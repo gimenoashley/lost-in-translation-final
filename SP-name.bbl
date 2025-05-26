@@ -868,34 +868,6 @@ Papineni, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Peytchev%
-\ \BBA {} Peytcheva%
-}{%
-Peytchev%
-\ \BBA {} Peytcheva%
-}{%
-{\protect \APACyear {2017}}%
-}]{%
-Peytchev_Peytcheva_2017}
-\APACinsertmetastar {%
-Peytchev_Peytcheva_2017}%
-\begin{APACrefauthors}%
-Peytchev, A.%
-\BCBT {}\ \BBA {} Peytcheva, E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-\APACrefbtitle {Reduction of Measurement Error Due to Survey length: Evaluation
-  of the Split Questionnaire Design Approach.} {Reduction of measurement error
-  due to survey length: Evaluation of the split questionnaire design approach.}
-\newblock
-\begin{APACrefURL} \url{https://ojs.ub.uni-konstanz.de/srm/article/view/7145/0}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Sun%
 , Hu%
 , Gupta%

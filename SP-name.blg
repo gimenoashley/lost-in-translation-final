@@ -48,45 +48,45 @@ Warning--I didn't find a database entry for "Olobia_2024"
 Warning--I didn't find a database entry for "Esquivel_2019"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No address in brynjolfsson2023generative
-You've used 39 entries,
+You've used 38 entries,
             6951 wiz_defined-function locations,
-            1531 strings with 20242 characters,
-and the built_in function-call counts, 79352 in all, are:
-= -- 9548
-> -- 743
-< -- 3836
-+ -- 4036
-- -- 78
-* -- 5096
-:= -- 14357
-add.period$ -- 160
-call.type$ -- 39
-change.case$ -- 696
+            1524 strings with 19973 characters,
+and the built_in function-call counts, 77216 in all, are:
+= -- 9287
+> -- 729
+< -- 3708
++ -- 3912
+- -- 76
+* -- 4951
+:= -- 13904
+add.period$ -- 156
+call.type$ -- 38
+change.case$ -- 679
 chr.to.int$ -- 0
-cite$ -- 79
-duplicate$ -- 2385
-empty$ -- 3162
-format.name$ -- 1349
-if$ -- 14934
+cite$ -- 77
+duplicate$ -- 2343
+empty$ -- 3090
+format.name$ -- 1325
+if$ -- 14550
 int.to.chr$ -- 0
-int.to.str$ -- 117
+int.to.str$ -- 114
 missing$ -- 0
-newline$ -- 1056
-num.names$ -- 314
-pop$ -- 2024
+newline$ -- 1031
+num.names$ -- 306
+pop$ -- 1954
 preamble$ -- 1
-purify$ -- 188
+purify$ -- 184
 quote$ -- 0
-skip$ -- 4311
+skip$ -- 4228
 stack$ -- 0
-substring$ -- 4388
-swap$ -- 1223
-text.length$ -- 121
+substring$ -- 4257
+swap$ -- 1204
+text.length$ -- 119
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 3256
+type$ -- 3176
 warning$ -- 1
-while$ -- 497
+while$ -- 490
 width$ -- 0
-write$ -- 1356
+write$ -- 1325
 (There was 1 error message)

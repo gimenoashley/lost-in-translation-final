@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 09:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 09:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./SP-name.tex
-(SP-name.tex
+**./Carps.tex
+(Carps.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 
@@ -279,10 +279,10 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [twopage].
 
-(SP-name.aux (title_page.aux) (approval.aux) (declaration.aux) (dedication.aux)
+(Carps.aux (title_page.aux) (approval.aux) (declaration.aux) (dedication.aux)
 (acknowledgment.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
 (chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux))
-\openout1 = `SP-name.aux'.
+\openout1 = `Carps.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -419,7 +419,7 @@ Overfull \hbox (7.22237pt too wide) in paragraph at lines 15--12
 
 
 
-] (SP-name.toc
+] (Carps.toc
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -432,7 +432,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [8])
 \tf@toc=\write3
-\openout3 = `SP-name.toc'.
+\openout3 = `Carps.toc'.
 
 
 
@@ -440,9 +440,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [10
 
-] (SP-name.lof)
+] (Carps.lof)
 \tf@lof=\write4
-\openout4 = `SP-name.lof'.
+\openout4 = `Carps.lof'.
 
 
 
@@ -450,9 +450,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [12
 
-] (SP-name.lot)
+] (Carps.lot)
 \tf@lot=\write5
-\openout5 = `SP-name.lot'.
+\openout5 = `Carps.lot'.
 
 
 
@@ -899,11 +899,7 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 [21]
 
-[22]
-
-LaTeX Warning: Citation `Peytchev_Peytcheva_2017' undefined on input line 38.
-
-)
+[22])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1037,7 +1033,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (chapter_6.tex
 Chapter 6.
-(SP-name.bbl
+(Carps.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1136,7 +1132,7 @@ ge.
 ! Misplaced alignment tab character &.
 <argument> Language &
                       Communication
-l.922 ...anguage & Communication}{29}{3}{199--209}
+l.950 ...anguage & Communication}{29}{3}{199--209}
                                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1149,7 +1145,7 @@ might try typing `S' now just to see what is salvageable.
 
 [43]))
 
-[44] (SP-name.aux (title_page.aux) (approval.aux) (declaration.aux)
+[44] (Carps.aux (title_page.aux) (approval.aux) (declaration.aux)
 (dedication.aux) (acknowledgment.aux) (abstract.aux) (chapter_1.aux)
 (chapter_2.aux) (chapter_3.aux) (chapter_4.aux) (chapter_5.aux) (chapter_6.aux)
 )
@@ -1163,13 +1159,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6301 strings out of 473899
- 102711 string characters out of 5726971
+ 6302 strings out of 473899
+ 102673 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28980 multiletter control sequences out of 15000+600000
+ 28981 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1925b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1923b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1180,7 +1176,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (57 pages, 786721 bytes).
+Output written on Carps.pdf (57 pages, 787243 bytes).
 PDF statistics:
  256 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
