@@ -44,47 +44,49 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myreferences.bib
 Warning--entry type for "unsloth" isn't style-file defined
 --line 91 of file myreferences.bib
+Warning--I didn't find a database entry for "Olobia_2024"
+Warning--I didn't find a database entry for "Esquivel_2019"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No address in brynjolfsson2023generative
-You've used 32 entries,
+You've used 39 entries,
             6951 wiz_defined-function locations,
-            1500 strings with 18391 characters,
-and the built_in function-call counts, 64130 in all, are:
-= -- 7795
-> -- 562
-< -- 3092
-+ -- 3248
-- -- 64
-* -- 4114
-:= -- 11654
-add.period$ -- 133
-call.type$ -- 32
-change.case$ -- 579
+            1531 strings with 20242 characters,
+and the built_in function-call counts, 79352 in all, are:
+= -- 9548
+> -- 743
+< -- 3836
++ -- 4036
+- -- 78
+* -- 5096
+:= -- 14357
+add.period$ -- 160
+call.type$ -- 39
+change.case$ -- 696
 chr.to.int$ -- 0
-cite$ -- 65
-duplicate$ -- 1847
-empty$ -- 2553
-format.name$ -- 984
-if$ -- 12097
+cite$ -- 79
+duplicate$ -- 2385
+empty$ -- 3162
+format.name$ -- 1349
+if$ -- 14934
 int.to.chr$ -- 0
-int.to.str$ -- 96
+int.to.str$ -- 117
 missing$ -- 0
-newline$ -- 859
-num.names$ -- 258
-pop$ -- 1476
+newline$ -- 1056
+num.names$ -- 314
+pop$ -- 2024
 preamble$ -- 1
-purify$ -- 162
+purify$ -- 188
 quote$ -- 0
-skip$ -- 3666
+skip$ -- 4311
 stack$ -- 0
-substring$ -- 3548
-swap$ -- 977
-text.length$ -- 109
+substring$ -- 4388
+swap$ -- 1223
+text.length$ -- 121
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2696
+type$ -- 3256
 warning$ -- 1
-while$ -- 379
+while$ -- 497
 width$ -- 0
-write$ -- 1082
+write$ -- 1356
 (There was 1 error message)

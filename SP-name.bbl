@@ -113,6 +113,34 @@ Brynjolfsson, E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Chiang%
+\ \protect \BOthers {.}}{%
+Chiang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+chiang2024chatbot}
+\APACinsertmetastar {%
+chiang2024chatbot}%
+\begin{APACrefauthors}%
+Chiang, W\BHBI L.%
+, Zheng, L.%
+, Sheng, Y.%
+, Angelopoulos, A\BPBI N.%
+, Li, T.%
+, Li, D.%
+\BDBL {}Stoica, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Chatbot Arena: An Open Platform for Evaluating LLMs by Human
+  Preference.} {Chatbot arena: An open platform for evaluating llms by human
+  preference.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Crystal%
 \ \BBA {} Robins%
 }{%
@@ -166,6 +194,36 @@ Daniel~Han, M\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ding%
+\ \protect \BOthers {.}}{%
+Ding%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+ding2023enhancing}
+\APACinsertmetastar {%
+ding2023enhancing}%
+\begin{APACrefauthors}%
+Ding, N.%
+, Chen, Y.%
+, Xu, B.%
+, Qin, Y.%
+, Zheng, Z.%
+, Hu, S.%
+\BDBL {}Zhou, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enhancing Chat Language Models by Scaling High-quality
+  Instructional Conversations} {Enhancing chat language models by scaling
+  high-quality instructional conversations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:2305.14233}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Dua%
 \ \protect \BOthers {.}}{%
 Dua%
@@ -190,36 +248,10 @@ Dua, A.%
 \newblock
 \APACrefbtitle {What is Gen Z?} {What is gen z?}
 \newblock
-\APACaddressPublisher{}{McKinsey \& Company}.
+\APACaddressPublisher{}{McKinsey & Company}.
 \newblock
 \begin{APACrefURL}
   \url{https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Esquivel%
-}{%
-Esquivel%
-}{%
-{\protect \APACyear {2019}}%
-}]{%
-Esquivel_2019}
-\APACinsertmetastar {%
-Esquivel_2019}%
-\begin{APACrefauthors}%
-Esquivel, O\BPBI J\BPBI D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2019}{}{}.
-\newblock
-\APACrefbtitle {58 Exploring the Filipinization of the English Language in a
-  Digital Age: An Identity Apart from Other World Englishes.} {58 exploring the
-  filipinization of the english language in a digital age: An identity apart
-  from other world englishes.}
-\newblock
-\begin{APACrefURL} \url{https://files.eric.ed.gov/fulltext/EJ1244667.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -300,6 +332,33 @@ Fui-Hoon~Nah, F.%
   and ai-human collaboration}\ (\BVOL~25)\ (\BNUM~3).
 \newblock
 \APACaddressPublisher{}{Taylor \& Francis}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ganti%
+}{%
+Ganti%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+Ganti_2024}
+\APACinsertmetastar {%
+Ganti_2024}%
+\begin{APACrefauthors}%
+Ganti, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Weighted Average: Definition and How It is Calculated and
+  Used.} {Weighted average: Definition and how it is calculated and used.}
+\newblock
+\APACaddressPublisher{}{Investopedia}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.investopedia.com/terms/w/weightedaverage.asp}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -484,6 +543,36 @@ Jeresano, E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Liang%
+, Meng%
+, Wang%
+\BCBL {}\ \BBA {} Zhou%
+}{%
+Liang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+liang2025slangditbenchmarkingllmsinterpretative}
+\APACinsertmetastar {%
+liang2025slangditbenchmarkingllmsinterpretative}%
+\begin{APACrefauthors}%
+Liang, Y.%
+, Meng, F.%
+, Wang, J.%
+\BCBL {}\ \BBA {} Zhou, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {SlangDIT: Benchmarking LLMs in Interpretative Slang
+  Translation.} {Slangdit: Benchmarking llms in interpretative slang
+  translation.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2505.14181} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lin%
 }{%
 Lin%
@@ -654,6 +743,34 @@ McArthur, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Nadas%
+, Diosan%
+\BCBL {}\ \BBA {} Tomescu%
+}{%
+Nadas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+nadas2025syntheticdatagenerationusing}
+\APACinsertmetastar {%
+nadas2025syntheticdatagenerationusing}%
+\begin{APACrefauthors}%
+Nadas, M.%
+, Diosan, L.%
+\BCBL {}\ \BBA {} Tomescu, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {Synthetic Data Generation Using Large Language Models: Advances
+  in Text and Code.} {Synthetic data generation using large language models:
+  Advances in text and code.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2503.14023} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Nguyen%
 , Wilson%
 \BCBL {}\ \BBA {} Dalins%
@@ -714,32 +831,6 @@ Nocon, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Olobia%
-}{%
-Olobia%
-}{%
-{\protect \APACyear {2024}}%
-}]{%
-Olobia_2024}
-\APACinsertmetastar {%
-Olobia_2024}%
-\begin{APACrefauthors}%
-Olobia, L\BPBI P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024}{Mar}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Utilizing Social Media in Communicating in English as a
-  Second Language} {Utilizing social media in communicating in english as a
-  second language}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Studies in Self-Access Learning Journal}{15}{1}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.37237/150103} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Papineni%
 , Roukos%
 , Ward%
@@ -774,6 +865,66 @@ Papineni, K.%
 \newblock
 \begin{APACrefDOI} \doi{https://doi.org/10.3115/1073083.1073135}
   \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peytchev%
+\ \BBA {} Peytcheva%
+}{%
+Peytchev%
+\ \BBA {} Peytcheva%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Peytchev_Peytcheva_2017}
+\APACinsertmetastar {%
+Peytchev_Peytcheva_2017}%
+\begin{APACrefauthors}%
+Peytchev, A.%
+\BCBT {}\ \BBA {} Peytcheva, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Reduction of Measurement Error Due to Survey length: Evaluation
+  of the Split Questionnaire Design Approach.} {Reduction of measurement error
+  due to survey length: Evaluation of the split questionnaire design approach.}
+\newblock
+\begin{APACrefURL} \url{https://ojs.ub.uni-konstanz.de/srm/article/view/7145/0}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sun%
+, Hu%
+, Gupta%
+, Zemel%
+\BCBL {}\ \BBA {} Xu%
+}{%
+Sun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+sun2024informallanguageprocessingknowledge}
+\APACinsertmetastar {%
+sun2024informallanguageprocessingknowledge}%
+\begin{APACrefauthors}%
+Sun, Z.%
+, Hu, Q.%
+, Gupta, R.%
+, Zemel, R.%
+\BCBL {}\ \BBA {} Xu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Toward Informal Language Processing: Knowledge of Slang in
+  Large Language Models.} {Toward informal language processing: Knowledge of
+  slang in large language models.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2404.02323} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -842,6 +993,33 @@ Teng, C\BPBI E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Tunstall%
+\ \protect \BOthers {.}}{%
+Tunstall%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+tunstall2023zephyr}
+\APACinsertmetastar {%
+tunstall2023zephyr}%
+\begin{APACrefauthors}%
+Tunstall, L.%
+, Beeching, E.%
+, Lambert, N.%
+, Rajani, N.%
+, Rasul, K.%
+, Belkada, Y.%
+\BDBL {}Wolf, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Zephyr: Direct Distillation of LM Alignment.} {Zephyr: Direct
+  distillation of lm alignment.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Vacalares%
 , Salas%
 , Babac%
@@ -905,6 +1083,37 @@ Vergho, T.%
   in misinformation mitigation.}
 \newblock
 \begin{APACrefURL} \url{https://arxiv.org/abs/2401.06920} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+von Werra%
+\ \protect \BOthers {.}}{%
+von Werra%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+vonwerra2022trl}
+\APACinsertmetastar {%
+vonwerra2022trl}%
+\begin{APACrefauthors}%
+von Werra, L.%
+, Belkada, Y.%
+, Tunstall, L.%
+, Beeching, E.%
+, Thrush, T.%
+, Lambert, N.%
+\BDBL {}Gallouédec, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {TRL: Transformer Reinforcement Learning.} {Trl: Transformer
+  reinforcement learning.}
+\newblock
+\APAChowpublished {\url{https://github.com/huggingface/trl}}.
+\newblock
+\APACaddressPublisher{}{GitHub}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
