@@ -63,7 +63,7 @@ In addition, it has minimal chance of catastrophic forgetting as the original we
 These factors make it a suitable option for slang translation as a quick yet accurate solution.
 In a study conducted by Zhao et al. \cite{zhao2024loraland310finetuned}, they determined that some LLMs using LoRA for fine tuning can outperform GPT-4, one of the most advanced LLM models currently.
 A study by Nguyen et al. \cite{nguyen2023finetuningllama2large} used LoRA in fine tuning a pre-trained Llama 2 7B model for text classification of a dataset that contains slang.
-They were able to create a more accurate model compared to models by existing studies at that time. 
+They were able to create a more accurate model compared to models by existing studies at that time.
 
 \section{Data Augmentation through Synthetic Data Generation}
 Datasets specifically of slang sentences are hard to come by especially ones dedicated to a certain group. This is where synthetic data generation comes into play. Modern LLMs fine-tuning leverages synthetic data generation in many ways. A good example of which is the model we are using, zephyr-7b-beta. This model is fine-tuned from Mistral 7B and was trained on ultrachat dataset \cite{tunstall2023zephyr}, which is a synthetic dataset from data obtained from the Internet \cite{ding2023enhancing}. In addition, the model showed performance comparable to larger open-source models in language tasks.
