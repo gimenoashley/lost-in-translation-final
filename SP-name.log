@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 09:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -917,9 +917,16 @@ Overfull \hbox (47.17513pt too wide) in paragraph at lines 9--10
 
 [21]
 
+LaTeX Warning: Citation `vonwerra2022trl' undefined on input line 33.
+
+
+
 [22]
 
-LaTeX Warning: Citation `Ganti_2024' undefined on input line 41.
+LaTeX Warning: Citation `Peytchev_Peytcheva_2017' undefined on input line 38.
+
+
+LaTeX Warning: Citation `Ganti_2024' undefined on input line 40.
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -933,26 +940,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (chapter_4.tex
 Chapter 4.
-<figures/TrainLoss.png, id=130, 2055.68pt x 1080.035pt>
-File: figures/TrainLoss.png Graphic file (type png)
-<use figures/TrainLoss.png>
-Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/EvaluationLoss.png, id=131, 2055.68pt x 1080.035pt>
-File: figures/EvaluationLoss.png Graphic file (type png)
-<use figures/EvaluationLoss.png>
-Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 18.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/BLEUEvaluation.png, id=132, 2055.68pt x 1080.035pt>
-File: figures/BLEUEvaluation.png Graphic file (type png)
-<use figures/BLEUEvaluation.png>
-Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 24.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
-<figures/ROUGELEvaluation.png, id=133, 2055.68pt x 1080.035pt>
-File: figures/ROUGELEvaluation.png Graphic file (type png)
-<use figures/ROUGELEvaluation.png>
-Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
-(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [25
@@ -961,6 +951,27 @@ Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
 
 
 ]
+<figures/TrainLoss.png, id=133, 2055.68pt x 1080.035pt>
+File: figures/TrainLoss.png Graphic file (type png)
+<use figures/TrainLoss.png>
+Package pdftex.def Info: figures/TrainLoss.png  used on input line 12.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+<figures/EvaluationLoss.png, id=134, 2055.68pt x 1080.035pt>
+File: figures/EvaluationLoss.png Graphic file (type png)
+<use figures/EvaluationLoss.png>
+Package pdftex.def Info: figures/EvaluationLoss.png  used on input line 18.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+<figures/BLEUEvaluation.png, id=135, 2055.68pt x 1080.035pt>
+File: figures/BLEUEvaluation.png Graphic file (type png)
+<use figures/BLEUEvaluation.png>
+Package pdftex.def Info: figures/BLEUEvaluation.png  used on input line 24.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+<figures/ROUGELEvaluation.png, id=136, 2055.68pt x 1080.035pt>
+File: figures/ROUGELEvaluation.png Graphic file (type png)
+<use figures/ROUGELEvaluation.png>
+Package pdftex.def Info: figures/ROUGELEvaluation.png  used on input line 30.
+(pdftex.def)             Requested size: 411.12872pt x 216.00317pt.
+
 
 [26 <./figures/TrainLoss.png>]
 
@@ -973,17 +984,13 @@ OUGE met-rics, specif-
 
 
 [28 <./figures/ROUGELEvaluation.png>]
-<figures/Form1.png, id=150, 505.89pt x 362.35374pt>
+
+[29]
+<figures/Form1.png, id=153, 505.89pt x 362.35374pt>
 File: figures/Form1.png Graphic file (type png)
 <use figures/Form1.png>
 Package pdftex.def Info: figures/Form1.png  used on input line 48.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-Underfull \vbox (badness 3884) has occurred while \output is active []
-
-
-
-[29]
 <figures/Form2.png, id=154, 505.89pt x 362.35374pt>
 File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
@@ -994,9 +1001,6 @@ File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
 Package pdftex.def Info: figures/Form3.png  used on input line 67.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 [30 <./figures/Form1.png>]
@@ -1012,17 +1016,15 @@ File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
 Package pdftex.def Info: figures/Form5.png  used on input line 85.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Form 6.png, id=168, 505.89pt x 362.35374pt>
+
+
+[32 <./figures/Form4.png>]
+<figures/Form 6.png, id=172, 505.89pt x 362.35374pt>
 File: figures/Form 6.png Graphic file (type png)
 <use figures/Form 6.png>
 Package pdftex.def Info: figures/Form 6.png  used on input line 94.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-
-[32 <./figures/Form4.png>]
-
-[33 <./figures/Form5.png> <./figures/Form 6.png>]
-<figures/Summary.png, id=178, 505.89pt x 362.35374pt>
+<figures/Summary.png, id=173, 505.89pt x 362.35374pt>
 File: figures/Summary.png Graphic file (type png)
 <use figures/Summary.png>
 Package pdftex.def Info: figures/Summary.png  used on input line 103.
@@ -1032,7 +1034,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[34 <./figures/Summary.png>])
+[33 <./figures/Form5.png>]
+
+[34 <./figures/Form 6.png> <./figures/Summary.png>])
 
 [35]
 \openout2 = `chapter_5.aux'.
@@ -1059,19 +1063,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (chapter_6.tex
 Chapter 6.
 (SP-name.bbl
-! Misplaced alignment tab character &.
-<argument> McKinsey &
-                      Company
-l.193 \APACaddressPublisher{}{McKinsey & Company}
-                                                 .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1183,13 +1174,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6292 strings out of 473899
- 102485 string characters out of 5726971
+ 6296 strings out of 473899
+ 102569 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28971 multiletter control sequences out of 15000+600000
+ 28975 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1950b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1925b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1200,7 +1191,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on SP-name.pdf (56 pages, 782579 bytes).
+Output written on SP-name.pdf (56 pages, 783741 bytes).
 PDF statistics:
  253 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -22,8 +22,8 @@
 \contentsline {subsection}{\numberline {3.1.4}Model Evaluation}{22}{}%
 \contentsline {chapter}{\numberline {4}Results and Discussions}{25}{}%
 \contentsline {section}{\numberline {4.1}Dataset}{25}{}%
-\contentsline {section}{\numberline {4.2}Model Evaluation}{25}{}%
-\contentsline {subsection}{\numberline {4.2.1}Model Training}{25}{}%
+\contentsline {section}{\numberline {4.2}Model Evaluation}{26}{}%
+\contentsline {subsection}{\numberline {4.2.1}Model Training}{26}{}%
 \contentsline {subsection}{\numberline {4.2.2}Text Generation}{28}{}%
 \contentsline {subsection}{\numberline {4.2.3}Automatic Evaluation Metrics}{28}{}%
 \contentsline {subsection}{\numberline {4.2.4}Manual Evaluation Metrics}{29}{}%
