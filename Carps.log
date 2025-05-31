@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  26 MAY 2025 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  31 MAY 2025 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,13 +483,6 @@ Underfull \vbox (badness 1365) has occurred while \output is active []
 
 [4]
 
-LaTeX Warning: Citation `Olobia_2024' undefined on input line 63.
-
-
-LaTeX Warning: Citation `Esquivel_2019' undefined on input line 65.
-
-
-
 [5]
 
 [6])
@@ -967,29 +960,29 @@ File: figures/Form2.png Graphic file (type png)
 <use figures/Form2.png>
 Package pdftex.def Info: figures/Form2.png  used on input line 58.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Form3.png, id=155, 505.89pt x 362.35374pt>
+
+
+[30 <./figures/Form1.png>]
+<figures/Form3.png, id=160, 505.89pt x 362.35374pt>
 File: figures/Form3.png Graphic file (type png)
 <use figures/Form3.png>
 Package pdftex.def Info: figures/Form3.png  used on input line 67.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-
-
-[30 <./figures/Form1.png>]
-
-[31 <./figures/Form2.png> <./figures/Form3.png>]
-<figures/Form4.png, id=166, 505.89pt x 362.35374pt>
+<figures/Form4.png, id=161, 505.89pt x 362.35374pt>
 File: figures/Form4.png Graphic file (type png)
 <use figures/Form4.png>
 Package pdftex.def Info: figures/Form4.png  used on input line 76.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
-<figures/Form5.png, id=167, 505.89pt x 362.35374pt>
+<figures/Form5.png, id=162, 505.89pt x 362.35374pt>
 File: figures/Form5.png Graphic file (type png)
 <use figures/Form5.png>
 Package pdftex.def Info: figures/Form5.png  used on input line 85.
 (pdftex.def)             Requested size: 354.12057pt x 253.64589pt.
 
 
-[32 <./figures/Form4.png>]
+[31 <./figures/Form2.png>]
+
+[32 <./figures/Form3.png> <./figures/Form4.png>]
 <figures/Form 6.png, id=172, 505.89pt x 362.35374pt>
 File: figures/Form 6.png Graphic file (type png)
 <use figures/Form 6.png>
@@ -1008,25 +1001,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [33 <./figures/Form5.png>]
 
 [34 <./figures/Form 6.png> <./figures/Summary.png>])
+Underfull \vbox (badness 4001) has occurred while \output is active []
+
+
 
 [35]
+
+[36]
 \openout2 = `chapter_5.aux'.
 
  (chapter_5.tex
-
-[36
-
-
-
-
-]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[37])
+[37
+
+
+
+
+])
 
 [38]
 \openout2 = `chapter_6.aux'.
@@ -1047,7 +1043,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ! Misplaced alignment tab character &.
 <argument> McKinsey &
                       Company
-l.251 \APACaddressPublisher{}{McKinsey & Company}
+l.248 \APACaddressPublisher{}{McKinsey & Company}
                                                  .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1057,31 +1053,31 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 291--304
+Underfull \hbox (badness 1931) in paragraph at lines 314--327
 \OT1/cmr/m/n/12 trieved from $\OT1/cmtt/m/n/12 https :// www [] .open [] .edu /
  openlearn / languages / exploring []
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 377--395
+Underfull \hbox (badness 4229) in paragraph at lines 400--418
 \OT1/cmr/m/n/12 in so-cial me-dia among malaysian youths: A so-ci-olin-guis-tic
  per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--395
+Underfull \hbox (badness 10000) in paragraph at lines 400--418
 \OT1/cmr/m/n/12 spec-tive.  \OT1/cmr/m/it/12 In-ter-na-tional Young Schol-ars J
 our-nal of Lan-guages\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--395
+Underfull \hbox (badness 10000) in paragraph at lines 400--418
 \OT1/cmr/m/it/12 4\OT1/cmr/m/n/12 (2), 69.  Re-trieved from $\OT1/cmtt/m/n/12 h
 ttps :// www [] .iium [] .edu [] .my / media /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--395
+Underfull \hbox (badness 10000) in paragraph at lines 400--418
 \OT1/cmtt/m/n/12 77652 / Slang % 20Language % 20Use % 20in % 20Social % 20Media
  % 20Among %
  []
@@ -1089,19 +1085,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--395
 
 
 [40]
-Underfull \hbox (badness 2837) in paragraph at lines 407--421
+Underfull \hbox (badness 2837) in paragraph at lines 430--444
 []\OT1/cmr/m/n/12 Gonzaga, M.  (2025, Feb).  \OT1/cmr/m/it/12 \forda convo ang 
 fer-son": Ana-lysis of
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 407--421
+Underfull \hbox (badness 2452) in paragraph at lines 430--444
 \OT1/cmr/m/it/12 gen z slang in the lens of bat-sta-teu fac-ulty mem-bers.  \OT
 1/cmr/m/n/12 Re-trieved
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 407--421
+Underfull \hbox (badness 4967) in paragraph at lines 430--444
 \OT1/cmr/m/n/12 from $\OT1/cmtt/m/n/12 https :// www [] .academia [] .edu / 102
 575643 / [][]FORDA [] []CONVO [] []ANG [] []FERSON []
  []
@@ -1109,7 +1105,7 @@ Underfull \hbox (badness 4967) in paragraph at lines 407--421
 ! Misplaced alignment tab character &.
 <argument> ...International Journal for Research &
                                                    Technology
-l.539   Technology}{3}{4}{11–25}
+l.562   Technology}{3}{4}{11–25}
                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1121,7 +1117,7 @@ might try typing `S' now just to see what is salvageable.
 
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 672--685
+Underfull \hbox (badness 10000) in paragraph at lines 695--708
 []\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing lan-guage chan
 ge.
  []
@@ -1132,7 +1128,7 @@ ge.
 ! Misplaced alignment tab character &.
 <argument> Language &
                       Communication
-l.950 ...anguage & Communication}{29}{3}{199--209}
+l.997 ...anguage & Communication}{29}{3}{199--209}
                                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1153,16 +1149,12 @@ might try typing `S' now just to see what is salvageable.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 6302 strings out of 473899
- 102673 string characters out of 5726971
+ 6304 strings out of 473899
+ 102707 string characters out of 5726971
  1939960 words of memory out of 5000000
- 28981 multiletter control sequences out of 15000+600000
+ 28983 multiletter control sequences out of 15000+600000
  567588 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  79i,10n,84p,1923b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1176,7 +1168,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Carps.pdf (57 pages, 787243 bytes).
+Output written on Carps.pdf (57 pages, 787325 bytes).
 PDF statistics:
  256 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

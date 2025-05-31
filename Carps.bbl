@@ -106,10 +106,7 @@ Brynjolfsson, E.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Generative AI at work} {Generative ai at work}\
-  \APACbVolEdTR{}{\BTR{}}.
-\newblock
-\APACaddressInstitution{}{National Bureau of Economic Research}.
+\APACrefbtitle {Generative AI at work.} {Generative ai at work.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -188,7 +185,7 @@ Daniel~Han, M\BPBI H.%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Unsloth} {Unsloth}.{\BBCQ}
+\APACrefbtitle {Unsloth.} {Unsloth.}
 \newblock
 \begin{APACrefURL} \url{http://github.com/unslothai/unsloth} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
@@ -252,6 +249,32 @@ Dua, A.%
 \newblock
 \begin{APACrefURL}
   \url{https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Esquivel%
+}{%
+Esquivel%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Esquivel_2020}
+\APACinsertmetastar {%
+Esquivel_2020}%
+\begin{APACrefauthors}%
+Esquivel, O\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Exploring the Filipinization of the English Language in a
+  Digital Age: An Identity Apart from Other World Englishes.} {Exploring the
+  filipinization of the english language in a digital age: An identity apart
+  from other world englishes.}
+\newblock
+\begin{APACrefURL} \url{https://files.eric.ed.gov/fulltext/ED475048.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -828,6 +851,30 @@ Nocon, N.%
   Conference}{}{}{2199–2204}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/tencon.2018.8650118} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Olobia%
+}{%
+Olobia%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+Olobia_2024}
+\APACinsertmetastar {%
+Olobia_2024}%
+\begin{APACrefauthors}%
+Olobia, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{Jul}{}.
+\newblock
+\APACrefbtitle {Utilizing Social Media in Communicating in English as a Second
+  Language.} {Utilizing social media in communicating in english as a second
+  language.}
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.37237/150103} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
