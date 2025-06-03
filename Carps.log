@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  3 JUN 2025 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.31)  3 JUN 2025 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1166,44 +1166,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-! Misplaced alignment tab character &.
-<argument> McKinsey &
-                      Company
-l.248 \APACaddressPublisher{}{McKinsey & Company}
-                                                 .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Underfull \hbox (badness 1931) in paragraph at lines 314--327
 \OT1/cmr/m/n/12 trieved from $\OT1/cmtt/m/n/12 https :// www [] .open [] .edu /
  openlearn / languages / exploring []
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 400--418
-\OT1/cmr/m/n/12 in so-cial me-dia among malaysian youths: A so-ci-olin-guis-tic
- per-
+Underfull \hbox (badness 2293) in paragraph at lines 401--419
+[]\OT1/cmr/m/n/12 Ghazali, N. M., & Ab-dul-lah, N. N.  (2021, Dec).  Slang Lan-
+guage
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--418
-\OT1/cmr/m/n/12 spec-tive.  \OT1/cmr/m/it/12 In-ter-na-tional Young Schol-ars J
-our-nal of Lan-guages\OT1/cmr/m/n/12 ,
+Underfull \hbox (badness 4954) in paragraph at lines 401--419
+\OT1/cmr/m/n/12 Use in So-cial Me-dia among Malaysian Youths: A So-ci-olin-guis
+-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--418
-\OT1/cmr/m/it/12 4\OT1/cmr/m/n/12 (2), 69.  Re-trieved from $\OT1/cmtt/m/n/12 h
-ttps :// www [] .iium [] .edu [] .my / media /
+Underfull \hbox (badness 6428) in paragraph at lines 401--419
+\OT1/cmr/m/n/12 tic Per-spec-tive.  \OT1/cmr/m/it/12 In-ter-na-tional Young Sch
+ol-ars Jour-nal of Lan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--418
+Underfull \hbox (badness 10000) in paragraph at lines 401--419
 \OT1/cmtt/m/n/12 77652 / Slang % 20Language % 20Use % 20in % 20Social % 20Media
  % 20Among %
  []
@@ -1211,59 +1198,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 400--418
 
 
 [44]
-Underfull \hbox (badness 2837) in paragraph at lines 430--444
-[]\OT1/cmr/m/n/12 Gonzaga, M.  (2025, Feb).  \OT1/cmr/m/it/12 \forda convo ang 
-fer-son": Ana-lysis of
+Underfull \hbox (badness 1939) in paragraph at lines 431--445
+[]\OT1/cmr/m/n/12 Gonzaga, M.  (2025, Feb).  \OT1/cmr/m/it/12 \Forda Convo ang 
+Fer-son": Ana-lysis of
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 430--444
-\OT1/cmr/m/it/12 gen z slang in the lens of bat-sta-teu fac-ulty mem-bers.  \OT
-1/cmr/m/n/12 Re-trieved
- []
-
-
-Underfull \hbox (badness 4967) in paragraph at lines 430--444
+Underfull \hbox (badness 4967) in paragraph at lines 431--445
 \OT1/cmr/m/n/12 from $\OT1/cmtt/m/n/12 https :// www [] .academia [] .edu / 102
 575643 / [][]FORDA [] []CONVO [] []ANG [] []FERSON []
  []
 
-! Misplaced alignment tab character &.
-<argument> ...International Journal for Research &
-                                                   Technology
-l.562   Technology}{3}{4}{11–25}
-                                  .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 695--708
-[]\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing lan-guage chan
+Underfull \hbox (badness 10000) in paragraph at lines 698--711
+[]\OT1/cmr/m/n/12 Mantiri, O.  (2010, 03).  Fac-tors af-fect-ing Lan-guage Chan
 ge.
  []
 
 
 
 [46]
-! Misplaced alignment tab character &.
-<argument> Language &
-                      Communication
-l.997 ...anguage & Communication}{29}{3}{199--209}
-                                                  .
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 
 [47]))
 
@@ -1294,7 +1250,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/asus/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/asus/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Carps.pdf (61 pages, 587007 bytes).
+Output written on Carps.pdf (61 pages, 587494 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
