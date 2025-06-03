@@ -10,25 +10,25 @@
 \contentsline {section}{\numberline {2.1}Communication Gap between Generations}{9}{}%
 \contentsline {section}{\numberline {2.2}Generative AI}{10}{}%
 \contentsline {section}{\numberline {2.3}Existing Studies}{10}{}%
-\contentsline {section}{\numberline {2.4}LoRA for Fine Tuning}{13}{}%
-\contentsline {section}{\numberline {2.5}Data Augmentation through Synthetic Data Generation}{13}{}%
-\contentsline {section}{\numberline {2.6}Evaluation Metrics}{14}{}%
-\contentsline {section}{\numberline {2.7}Chapter Summary}{15}{}%
+\contentsline {section}{\numberline {2.4}LoRA for Fine Tuning}{14}{}%
+\contentsline {section}{\numberline {2.5}Data Augmentation through Synthetic Data Generation}{14}{}%
+\contentsline {section}{\numberline {2.6}Evaluation Metrics}{15}{}%
+\contentsline {section}{\numberline {2.7}Chapter Summary}{16}{}%
 \contentsline {chapter}{\numberline {3}Research Methodology}{19}{}%
 \contentsline {section}{\numberline {3.1}Research Activities}{19}{}%
 \contentsline {subsection}{\numberline {3.1.1}Data Gathering}{20}{}%
-\contentsline {subsection}{\numberline {3.1.2}Data Preprocessing}{20}{}%
-\contentsline {subsection}{\numberline {3.1.3}Model Fine-Tuning}{21}{}%
-\contentsline {subsection}{\numberline {3.1.4}Model Evaluation}{22}{}%
-\contentsline {chapter}{\numberline {4}Results and Discussions}{25}{}%
-\contentsline {section}{\numberline {4.1}Dataset}{25}{}%
-\contentsline {section}{\numberline {4.2}Model Evaluation}{26}{}%
-\contentsline {subsection}{\numberline {4.2.1}Model Training}{26}{}%
-\contentsline {subsection}{\numberline {4.2.2}Text Generation}{28}{}%
-\contentsline {subsection}{\numberline {4.2.3}Automatic Evaluation Metrics}{28}{}%
-\contentsline {subsection}{\numberline {4.2.4}Manual Evaluation Metrics}{29}{}%
-\contentsline {section}{\numberline {4.3}Summary}{35}{}%
-\contentsline {chapter}{\numberline {5}Conclusion}{37}{}%
-\contentsline {section}{\numberline {5.1}Limitations}{38}{}%
-\contentsline {section}{\numberline {5.2}Recommendations}{38}{}%
-\contentsline {chapter}{\numberline {6}References}{39}{}%
+\contentsline {subsection}{\numberline {3.1.2}Data Preprocessing}{21}{}%
+\contentsline {subsection}{\numberline {3.1.3}Model Fine-Tuning}{22}{}%
+\contentsline {subsection}{\numberline {3.1.4}Model Evaluation}{23}{}%
+\contentsline {chapter}{\numberline {4}Results and Discussions}{27}{}%
+\contentsline {section}{\numberline {4.1}Dataset}{27}{}%
+\contentsline {section}{\numberline {4.2}Model Evaluation}{28}{}%
+\contentsline {subsection}{\numberline {4.2.1}Model Training}{28}{}%
+\contentsline {subsection}{\numberline {4.2.2}Text Generation}{31}{}%
+\contentsline {subsection}{\numberline {4.2.3}Automatic Evaluation Metrics}{31}{}%
+\contentsline {subsection}{\numberline {4.2.4}Manual Evaluation Metrics}{32}{}%
+\contentsline {section}{\numberline {4.3}Summary}{39}{}%
+\contentsline {chapter}{\numberline {5}Conclusion}{41}{}%
+\contentsline {section}{\numberline {5.1}Limitations}{42}{}%
+\contentsline {section}{\numberline {5.2}Recommendations}{42}{}%
+\contentsline {chapter}{\numberline {6}References}{43}{}%
